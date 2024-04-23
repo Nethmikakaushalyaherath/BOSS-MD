@@ -60,7 +60,15 @@ MASTER-MD whatsapp bot is,
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### DEVELOPER
-<a href="https://github.com/maduwa2006"><img src="https://github.com/maduwa2006.png" width="200" height="200" alt="Ash"/></a>
-<a href="https://github.com/kanishkadesilva"><img src="https://github.com/kanishkadesilva.png" width="200" height="200" alt="Ash"/></a> 
-<a href="https://github.com/sahanaya2006"><img src="https://github.com/sahanaya2006.png" width="200" height="200" alt="Ash"/></a>
+<h2 align="center"> Star This Repo If You like KING-MD🌟
+</h2>
+
+#### Thanks To 
+
+1: Kanishka Brother
+
+2: Hemal Brother
+
+3: Kavi Brother
+
+#### WARNING : DON'T MODIFY THIS BOT FIRST INFORM THE OWNER

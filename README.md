@@ -10,7 +10,7 @@ MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
-<a href="https://github.com/maduwa2006">
+<a href="https://github.com/MrMasterOfc">
     <img src="https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,7 +46,7 @@ MASTER-MD whatsapp bot is,
 
 ### DEPLOY HEROKU
 
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maduwa2006/MASTER-MD)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMasterOfc/MASTER-MD)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

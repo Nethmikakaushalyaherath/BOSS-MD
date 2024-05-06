@@ -1,4 +1,4 @@
-MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
+`MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥`
 
 <div align="center">
     ✨<b>💀🥷MASTER-MD USER BOT🥷💀</b>✨</b> 
@@ -15,7 +15,7 @@ MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-MASTER-MD whatsapp bot is,
+`MASTER-MD` whatsapp bot is,
 
       MASTER-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
 
@@ -60,15 +60,15 @@ MASTER-MD whatsapp bot is,
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"> NOTE
+<h2 align="center"> 
 </h2>
 
-#### Thanks To 
+***`Thanks To`***
 
-1: Kanishka Brother
+`1: Kanishka Brother`
 
-2: Hemal Brother
+`2: Hemal Brother`
 
-3: Kavi Brother
+`3: Kavi Brother`
 
-#### WARNING : DON'T MODIFY THIS BOT FIRST INFORM THE OWNER
+***`WARNING` : DON'T MODIFY THIS BOT FIRST INFORM THE OWNER***

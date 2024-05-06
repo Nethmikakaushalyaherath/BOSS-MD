@@ -61,12 +61,12 @@
 <h2 align="center"> 
 </h2>
 
-Thanks To,
+`Thanks To,`
 
-1: Kanishka Brother
+1: `Kanishka Brother`
 
-2: Hemal Brother
+2: `Hemal Brother`
 
-3: Kavi Brother
+3: `Kavi Brother`
 
-***WARNING : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
+***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***

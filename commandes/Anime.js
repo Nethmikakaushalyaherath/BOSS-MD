@@ -26,7 +26,7 @@ async (origineMessage, zk, commandeOptions) => {
 
     //const texttraduit = await traduire(synopsis,{ to: 'fr' })
 
-    const message = `📺 Titre: ${title}\n🎬 Épisodes: ${episodes}\n📡 Statut: ${status}\n📝 Synopsis: ${synopsis}\n🔗 URL: ${data.url}`;
+    const message = `📺 Title: ${title}\n🎬 Episodes: ${episodes}\n📡 Statut: ${status}\n📝 Synopsis: ${synopsis}\n🔗 URL: ${data.url}`;
     
     // Envoyer l'image et les informations
     zk.sendMessage(origineMessage, { image: { url: imageUrl }, caption: message }, { quoted: ms });
@@ -117,7 +117,7 @@ france({
 
 
 france({
-  nomCom: "emomix",
+  nomCom: "emojimix",
   categorie: "Conversion"
 }, async (dest, zk, commandeOptions) => {
   const { arg, repondre,ms , nomAuteurMessage } = commandeOptions;

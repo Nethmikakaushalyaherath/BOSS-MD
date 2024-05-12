@@ -72,7 +72,7 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("there is no alive for this bot") ; return};
+        if(!superUser) { repondre("*MASTER MD V1 IS ACTIVE...😁*") ; return};
 
       await   repondre("You have not yet saved your alive, to do this;  enter after alive your message and your image or video link in this context: .alive message;lien");
          repondre("don't do fake things :)")

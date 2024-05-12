@@ -42,3 +42,4 @@ async function  execute  (origineMessage,zok) {
       var img='https://telegra.ph/file/13d63c21c1a665bfd8324.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
+

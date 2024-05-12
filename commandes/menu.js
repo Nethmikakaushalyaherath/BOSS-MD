@@ -61,7 +61,6 @@ zokou({
         },
         'caption': _0x3363a8 + _0x247d40,
         'footer': "Je suis *Zokou-MD*, développé par Djalega++",
-        'buttons': "\n\n            #button:quick_reply | display_text : OWNER 🌟 | id:" + prefix + "owner /#\n           \n            "
         'gifPlayback': true
       }, {
         'quoted': _0x19d732

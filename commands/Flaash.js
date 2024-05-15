@@ -29,7 +29,7 @@ france({
     'image': {
       'url': 'https://telegra.ph/file/6771f559b5e3138ee8610.jpg'
     },
-    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Group\n\nhttps://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM"
+    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Channel\n\nhttps://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M"
   });
 });
 console.log("mon test");
@@ -43,7 +43,7 @@ france({
     'image': {
       'url': 'https://telegra.ph/file/6771f559b5e3138ee8610.jpg'
     },
-    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Channel.\n\nhttps://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P"
+    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Channel.\n\nhttps://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M"
   });
 });
 console.log("mon test");/** 
@@ -77,7 +77,7 @@ france({
     'image': {
       'url': 'https://telegra.ph/file/6771f559b5e3138ee8610.jpg'
     },
-    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Group\n\nhttps://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM"
+    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Channel\n\nhttps://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M"
   });
 });
 console.log("mon test");
@@ -91,7 +91,7 @@ france({
     'image': {
       'url': 'https://telegra.ph/file/6771f559b5e3138ee8610.jpg'
     },
-    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Channel.\n\nhttps://whatsapp.com/channel/0029VaTbb3p84Om9LRX1jg0P"
+    'caption': "Hello 👋\n\nClick The link below to Join the OFFICIAL *MASTER-MD* WhatsApp Channel.\n\nhttps://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M"
   });
 });
 console.log("mon test");

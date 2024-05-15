@@ -72,12 +72,12 @@ france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254757835036" },
-      { nom: "᚛FranceKing᚜", numero: "254750948696" },
+      { nom: "Sahan Maduwantha", numero: "94720797915" },
+      { nom: "᚛MASTER MIND᚜", numero: "94720797915" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello 👋\n *Welcome to Flash-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _France King_*\n*◇AGE: 23*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV TEAM: _CHELSEA_*\n*◇INSTAGRAM: https://instagram.com/france.king1*\n*◇Twitter: https://twitter.com/france_king1*\n\n______________________________\n\n*💙KEEP USING FLASH-MD🤍*\n\n\n_The following are my contacts_:\n:";
+    let message = "Hello 👋\n *Welcome to MASTER-MD!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _Sahan Maduwantha_*\n*◇AGE: 23*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇TEAM: _REDGANG_*\n\n______________________________\n\n*💙KEEP USING MASTER-MD🤍*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -113,7 +113,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/+94720797915`},{quoted :ms})
 
 })
  

@@ -29,14 +29,25 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `*FLASH-MD SONG DOWNLOADER*\n\n*Title:* ${videos[0].title}
-         
-*Duration:* ${videos[0].timestamp}
-*Song Url:* ${videos[0].url}
+         caption : `𝚀𝚄𝙴𝙴𝙽-𝚂𝙰𝚂𝙸-𝙼𝙳 𝚂𝙾𝙽𝙶 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁__*
 
+*🔰.𝐓ɪᴛʟᴇ :* *${videos[0].title}*
 
+*🔰.𝐃ᴜʀᴀᴛɪᴏɴ:* *${videos[0].timestamp}*
 
-*_Powered by ©France King._*`
+*🔰.𝐕ɪᴇᴡᴇʀꜱ:* *${videos[0].views}*
+
+*🔰.𝐔ᴘʟᴏᴀᴅᴇᴅ:* *${videos[0].ago}*
+
+*🔰.𝐀ᴜᴛʜᴏʀ:* *${videos[0].author.name}*
+
+*🔰.𝐔ʀʟ:* *${videos[0].url}*
+
+▬▬▬▬▬▬▬▬▬▬▬▬
+*𝚈𝚘𝚞𝚛 𝚂𝚘𝚗𝚐 𝚒𝚜 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐⬇️*
+*𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝___⏳*
+▬▬▬▬▬▬▬▬▬▬▬▬
+*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃* 👻`
        }
 
       
@@ -103,13 +114,25 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*FLASH-MD VIDEO DOWNLOADER*\n\n*Title :* ${Element.title}
-*Duration :* ${Element.timestamp}
-*Video Url:* ${Element.url}
+        caption: `*𝚀𝚄𝙴𝙴𝙽-𝚂𝙰𝚂𝙸-𝙼𝙳 𝚅𝙸𝙳𝙴𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁__👻📽️*
 
+*🔰.𝐓ɪᴛʟᴇ:* *${Element.title}*
 
+*🔰.𝐃ᴜʀᴀᴛɪᴏɴ:* *${Element.timestamp}*
 
-*Powered by ©France King*\n\n`
+*🔰.𝐕ɪᴇᴡᴇʀꜱ:* *${Element.views}*
+
+*🔰.𝐔ᴘʟᴏᴀᴅᴇᴅ:* *${Element.ago}*
+
+*🔰.𝐀ᴜᴛʜᴏʀ:* *${Element.author.name}*
+
+*🔰.𝐔ʀʟ:* *${Element.url}*
+
+▬▬▬▬▬▬▬▬▬▬▬▬
+*𝚈𝚘𝚞𝚛 𝚟𝚒𝚍𝚎𝚘 𝚒𝚜 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐⬇️*
+*𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝___⏳*
+▬▬▬▬▬▬▬▬▬▬▬▬
+*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃* 👻\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -130,7 +153,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*FLASH-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*MASTER-MD*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {

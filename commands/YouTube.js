@@ -8,9 +8,9 @@ const yts1 = require("youtube-yts");
 //var fs =require("fs-extra")
 
 france({
-  nomCom: "play",
+  nomCom: "song",
   categorie: "Search",
-  reaction: "💿"
+  reaction: "🎶"
 }, async (origineMessage, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
      
@@ -29,7 +29,7 @@ france({
           
        let infoMess = {
           image: {url : videos[0]. thumbnail},
-         caption : `𝚀𝚄𝙴𝙴𝙽-𝚂𝙰𝚂𝙸-𝙼𝙳 𝚂𝙾𝙽𝙶 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁__*
+         caption : `*MASTER-MD SONG DOWLOADER 🥷🏻🎼*
 
 *🔰.𝐓ɪᴛʟᴇ :* *${videos[0].title}*
 
@@ -47,7 +47,7 @@ france({
 *𝚈𝚘𝚞𝚛 𝚂𝚘𝚗𝚐 𝚒𝚜 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐⬇️*
 *𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝___⏳*
 ▬▬▬▬▬▬▬▬▬▬▬▬
-*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃* 👻`
+*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*`
        }
 
       
@@ -114,7 +114,7 @@ france({
 
       let InfoMess = {
         image: { url: videos[0].thumbnail },
-        caption: `*𝚀𝚄𝙴𝙴𝙽-𝚂𝙰𝚂𝙸-𝙼𝙳 𝚅𝙸𝙳𝙴𝙾 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝚁__👻📽️*
+        caption: `*MASTER-MD SONG DOWLOADER 🥷🏻📽️*
 
 *🔰.𝐓ɪᴛʟᴇ:* *${Element.title}*
 
@@ -132,7 +132,7 @@ france({
 *𝚈𝚘𝚞𝚛 𝚟𝚒𝚍𝚎𝚘 𝚒𝚜 𝙳𝚘𝚠𝚗𝚕𝚘𝚊𝚍𝚒𝚗𝚐⬇️*
 *𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚊𝚒𝚝___⏳*
 ▬▬▬▬▬▬▬▬▬▬▬▬
-*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙲𝚈𝙱𝙴𝚁 𝙶𝙷𝙾𝚂𝚃* 👻\n\n`
+*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });

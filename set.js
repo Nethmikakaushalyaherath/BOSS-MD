@@ -8,15 +8,15 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || 'MASTER-MD;;;=>',
-    PREFIXE: process.env.PREFIX || "+",
-    OWNER_NAME: process.env.OWNER_NAME || "Sahan MAduwantha",
+    PREFIXE: process.env.PREFIX || ".",
+    OWNER_NAME: process.env.OWNER_NAME || "Sahan Maduwantha",
     NUMERO_OWNER : process.env.OWNER_NUMBER || "94720797915", 
              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
 AUTOREAD_MESSAGES: process.env.AUTO_READ_MESSAGES || "yes",
 CHATBOT: process.env.CHAT_BOT || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'FLASH-MD',
+    BOT : process.env.BOT_NAME || 'MASTER-MD',
     OPENAI_API_KEY : process.env.OPENAI_API_KEY || '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',
     URL : process.env.BOT_MENU_LINKS || 'https://static.animecorner.me/2023/08/op2.jpg',
     MODE: process.env.PUBLIC_MODE || "no",

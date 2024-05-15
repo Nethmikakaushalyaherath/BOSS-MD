@@ -26,7 +26,7 @@ france({ nomCom: "hacker",
 france({ nomCom: "dragonball", categorie: "Logo", reaction: "🐉" }, async (dest, zk, commandeOptions) => {
     let { arg, repondre, prefixe, ms } = commandeOptions;
     try {
-        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball FranceKing`;
+        const noArgMsg = `*_EXEMPLE *:  ${prefixe}dragonball Sahan`;
         //  if(arg=='') {await zok.sendMessage(dest,{text:noArgMsg},{quoted:infoMessage}); return;}
         if (arg == '' || !arg) {
             repondre(noArgMsg);

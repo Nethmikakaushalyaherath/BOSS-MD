@@ -1,5 +1,3 @@
-
-
 /** 
 
 🇫‌🇱‌🇦‌🇸‌🇭‌-🇲‌🇩‌ 
@@ -13,9 +11,977 @@
  
  **/
 
-
-
-
-
-
-const _0x4d776a=_0x1db1;(function(_0x2fe355,_0x5a6fbf){const _0x5dd732=_0x1db1,_0x545503=_0x2fe355();while(!![]){try{const _0x534b4d=parseInt(_0x5dd732(0x23e))/0x1+parseInt(_0x5dd732(0x25c))/0x2*(parseInt(_0x5dd732(0x287))/0x3)+parseInt(_0x5dd732(0x1ec))/0x4*(-parseInt(_0x5dd732(0x206))/0x5)+-parseInt(_0x5dd732(0x1d5))/0x6+-parseInt(_0x5dd732(0x2a2))/0x7+parseInt(_0x5dd732(0x271))/0x8*(parseInt(_0x5dd732(0x229))/0x9)+parseInt(_0x5dd732(0x25f))/0xa;if(_0x534b4d===_0x5a6fbf)break;else _0x545503['push'](_0x545503['shift']());}catch(_0x2c09b9){_0x545503['push'](_0x545503['shift']());}}}(_0x9706,0x6b92e));function _0x1db1(_0x22e4ab,_0x18ec08){const _0x970613=_0x9706();return _0x1db1=function(_0x1db10e,_0x1b3af4){_0x1db10e=_0x1db10e-0x1ad;let _0x23c688=_0x970613[_0x1db10e];return _0x23c688;},_0x1db1(_0x22e4ab,_0x18ec08);}const {france}=require('../framewo'+_0x4d776a(0x240));var mumaker=require(_0x4d776a(0x23b));function _0x9706(){const _0x3d9b53=['-effect-52','m/tao-anh-','frozen','join','nt\x20Flash-M','hacker','ena-of-val','xtpro.me/c','typo\x20Flash','ced-text-e','ight-text-','82.html','xt-effect-','13.html','nline-thun','*__Example','thor','rain\x20Franc','sunset','hub\x20France','ccurred\x20:','e-808.html','text','3114294mkznNp','-effect-on','.com/purpl','naruto','style-text','ffect-62.h','-choi-cuoc','.com/sunli','LASH-MD','chocolate\x20','*Logo\x20by\x20F','mande:\x0a\x20','*processin','boom\x20Franc','\x20using\x20thi','Thunder\x20My','duite\x20:','graffiti','https://te','t-effect-t','Example\x20of','e-anonymou','neon','4MYIspt','rance\x20King','.com/stars','ritten-tex','o-shippude','g...*','*Processin','e-a-cartoo','-style-tex','My\x20text','or-by-mast','gers-onlin','🧚🏿‍♀️','ts-online-','le-text-ef','ect-online','catch','t-effect-7','Une\x20erreur','fect-onlin','sendMessag','fect-text-','vatars-cya','hoto360.co','e-796.html','.com/light','3506095bMkrCJ','LASH-MD*','\x20FLASH-MD*','🥵🥵\x20','free-1070.','processing','h-MD','.com/text-','rator-1031','*Example\x20U','t-effect-o','e-dragon-b','https://en','\x20FranceKin','Neon\x20My\x20te','magma','Flash-Md','h-Md','text-comic','\x20s\x27est\x20pro','cloth','steel\x20Flas','maker-onli','e-thor-sty','y\x20FLASH-MD','e-427.html','e-sunset-l','xtpro.me/e','0.html','.com/moder','sunset\x20Fra','et-glass-o','xtpro.me/o','.com/green','e-text-eff','261198mQYpiN','mechanical','avenger','ne-153.htm','n-logo-sty','s\x20command:','sunlight\x20F','on-cloth-e','grafittis\x20','te-gold-3d','steel','ct-futuris','\x20:\x20*\x20','equest...*','ing...*','*Flash-Md\x20','t-glow-sli','e-in-a-mec','mumaker','mand:\x0a\x20','ne-for-fre','491542KWUgLg','image','rk/france','-text-effe','t-effect-6','style-aven','effects-in','.com/drago','\x20using\x20com','-brush-tex','online-774','s-hacker-a','arena','*_EXAMPLE\x20','cloth\x20Flas','ing\x20Your\x20R','-names-and','leaves','affiti-tex','line-807.h','ct-online-','gold\x20Flash','ine-1-85.h','.com/narut','sand','.com/foggy','.com/write','is\x20Process','\x20France\x20Ki','ffect-onli','28146WqyEJQ','incandesce','.ephoto360','10273640kMjmwG','-goi-voi-t','gma-hot-te','night\x20FLAS','e-logo-3d-','ext','SH-MD','*_Example\x20','sunlight','\x20*Logo\x20by\x20','ering-360.','en-cua-ban','-pavement-','purple','online-295','nline-668.','chocolate','.com/choco','240NQTdLX','is\x20process','-night-onl','boom','night','lash-MD','.com/creat','👨🏿‍💻','nce','logy-style','.html','\x20processin','t-on-foggy','didong','n-gold-4-2','\x20\x09\x20*Logo\x20b','log','-100.html','-648.html','online-347','-christmas','g\x20...','3RUpCMM','textpro','gold','magma\x20My\x20t','🚫🚫\x20','-rainy-tex','thunder','yle-306.ht','online-103','candescent','\x20...','html','didong\x20Fra','e\x20King','tml','all-style-','-MD','water\x20FLAS','nline-589.','75.html','Logo\x20BY\x20*F','ing\x20your\x20r',':\x20*\x20','5.html','der-text-e','n-steel-te','whitegold','5199243CMxcLH','error','-text-204.','e-your-nam','light\x20Flas','Logo','xtpro.me/n','n-neon-677','text-effec','\x09\x20*Logo\x20by','809.html','*FLASH-MD\x20','ypography-','Exemple\x20of','-messages-','e-a-frozen','\x09\x20*Logo\x20By','raphy-text','then','*exemple\x20:','H-MD','ne-879.htm','nce\x20King','Logo\x20by\x20*F','-bulbs-219','ephoto','FLASH-MD*'];_0x9706=function(){return _0x3d9b53;};return _0x9706();}france({'nomCom':_0x4d776a(0x1c3),'categorie':_0x4d776a(0x2a7),'reaction':_0x4d776a(0x278)},async(_0x4bf79d,_0x87b803,_0x269a3b)=>{const _0x2dc2a0=_0x4d776a,{prefixe:_0x35884e,arg:_0x72a2f4,ms:_0x4292b8,repondre:_0x557f9f}=_0x269a3b;if(!_0x72a2f4||_0x72a2f4==''){_0x557f9f('*__Exemple'+'\x20:\x20*\x20'+_0x35884e+('hacker\x20Fra'+_0x2dc2a0(0x279)));return;}try{let _0x3e5170=await mumaker[_0x2dc2a0(0x1bc)](_0x2dc2a0(0x212)+_0x2dc2a0(0x25e)+_0x2dc2a0(0x277)+_0x2dc2a0(0x1ea)+_0x2dc2a0(0x249)+_0x2dc2a0(0x202)+_0x2dc2a0(0x2a9)+'.html',_0x72a2f4);_0x557f9f('*processin'+_0x2dc2a0(0x1f1)),await _0x87b803['sendMessag'+'e'](_0x4bf79d,{'image':{'url':_0x3e5170[_0x2dc2a0(0x23f)]},'caption':_0x2dc2a0(0x2ab)+'\x20FLASH-MD*'},{'quoted':_0x4292b8});}catch(_0x5f4493){_0x557f9f('🥵🥵\x20'+_0x5f4493);}}),france({'nomCom':_0x4d776a(0x256),'categorie':_0x4d776a(0x2a7),'reaction':'⌛'},async(_0xde980e,_0xf2325,_0x2fa631)=>{const _0x15641f=_0x4d776a,{prefixe:_0x1ee813,arg:_0x332962,ms:_0x1e9b24,repondre:_0x1cb34a}=_0x2fa631;if(!_0x332962||_0x332962==''){_0x1cb34a(_0x15641f(0x20f)+'sage\x20:\x20*\x20'+_0x1ee813+('sand\x20Flash'+'-Md'));return;}try{let _0x329cf5=await mumaker[_0x15641f(0x1bc)](_0x15641f(0x212)+_0x15641f(0x25e)+_0x15641f(0x258)+_0x15641f(0x24e)+_0x15641f(0x1b1)+'on-the-san'+'d-online-5'+_0x15641f(0x1c9),_0x332962);_0x1cb34a(_0x15641f(0x238)+_0x15641f(0x259)+_0x15641f(0x237)),await _0xf2325[_0x15641f(0x200)+'e'](_0xde980e,{'image':{'url':_0x329cf5['image']},'caption':_0x15641f(0x1b3)+_0x15641f(0x208)},{'quoted':_0x1e9b24});}catch(_0x22095c){_0x1cb34a(_0x15641f(0x28b)+_0x22095c);}}),france({'nomCom':'dragonball','categorie':_0x4d776a(0x2a7),'reaction':'🐉'},async(_0x255896,_0x188ce5,_0x13e70b)=>{const _0x1e046d=_0x4d776a;let {arg:_0x1cc07a,repondre:_0x29ec23,prefixe:_0x23b64f,ms:_0x393ef6}=_0x13e70b;try{const _0x3067cc=_0x1e046d(0x24b)+'*:\x20\x20'+_0x23b64f+('dragonball'+_0x1e046d(0x213)+'g');if(_0x1cc07a==''||!_0x1cc07a){_0x29ec23(_0x3067cc);return;}const _0x1ccfb9=await mumaker[_0x1e046d(0x1bc)](_0x1e046d(0x212)+_0x1e046d(0x25e)+_0x1e046d(0x277)+_0x1e046d(0x211)+_0x1e046d(0x296)+_0x1e046d(0x2aa)+_0x1e046d(0x1f9)+_0x1e046d(0x1ad),_0x1cc07a[_0x1e046d(0x1c1)]('\x20'));await _0x188ce5[_0x1e046d(0x200)+'e'](_0x255896,{'text':_0x1e046d(0x1f2)+_0x1e046d(0x1f1)},{'quoted':_0x393ef6}),await _0x188ce5[_0x1e046d(0x200)+'e'](_0x255896,{'image':{'url':_0x1ccfb9[_0x1e046d(0x23f)]},'caption':_0x1e046d(0x280)+_0x1e046d(0x21e)+'*'},{'quoted':_0x393ef6});}catch(_0x4a45ab){_0x29ec23(_0x1e046d(0x209)+_0x4a45ab);}}),france({'nomCom':_0x4d776a(0x1d8),'categorie':_0x4d776a(0x2a7),'reaction':'⛩'},async(_0x429b37,_0x2a0575,_0x491412)=>{const _0x333a11=_0x4d776a;let {ms:_0x17eb88,arg:_0x4a1bea,repondre:_0xfa9047,prefixe:_0x303ebd}=_0x491412;try{if(!_0x4a1bea||_0x4a1bea==''){_0xfa9047(_0x333a11(0x266)+_0x333a11(0x29d)+_0x303ebd+('naruto\x20FLA'+_0x333a11(0x265)));return;}_0xfa9047(_0x333a11(0x1ae)+'is\x20Process'+_0x333a11(0x24d)+_0x333a11(0x236));var _0x1b911f=await mumaker[_0x333a11(0x1bc)](_0x333a11(0x212)+'.ephoto360'+_0x333a11(0x255)+_0x333a11(0x1f0)+_0x333a11(0x22d)+_0x333a11(0x1fa)+_0x333a11(0x1ff)+_0x333a11(0x1d3),_0x4a1bea[_0x333a11(0x1c1)]('\x20'));await _0x2a0575[_0x333a11(0x200)+'e'](_0x429b37,{'image':{'url':_0x1b911f[_0x333a11(0x23f)]},'caption':_0x333a11(0x2ab)+_0x333a11(0x208)},{'quoted':_0x17eb88});}catch(_0x2a6579){_0xfa9047(_0x333a11(0x209)+_0x2a6579);}}),france({'nomCom':_0x4d776a(0x27e),'categorie':_0x4d776a(0x2a7),'reaction':'📱'},async(_0x4adff0,_0x254439,_0x5cbad3)=>{const _0x43a132=_0x4d776a;try{if(!_0x181394||_0x181394==''){_0x248cc8(_0x43a132(0x1b6)+'*\x20'+_0x16cabd+(_0x43a132(0x293)+_0x43a132(0x1b9)));return;}var _0xb81f80=await mumaker[_0x43a132(0x1bc)]('https://ep'+_0x43a132(0x203)+_0x43a132(0x1bf)+'che-vui-tu'+_0x43a132(0x1db)+_0x43a132(0x260)+_0x43a132(0x26a)+'-930.html',_0x181394[_0x43a132(0x1c1)]('\x20'));_0x248cc8(_0x43a132(0x1e1)+'g...*'),await _0x254439[_0x43a132(0x200)+'e'](_0x4adff0,{'image':{'url':_0xb81f80[_0x43a132(0x23f)]},'caption':_0x43a132(0x2ab)+_0x43a132(0x208)});}catch(_0x34ad57){_0x248cc8(_0x43a132(0x209)+_0x34ad57);}}),france({'nomCom':_0x4d776a(0x275),'categorie':_0x4d776a(0x2a7),'reaction':'🌃'},async(_0x1a2790,_0x466d8a,_0x2d7af5)=>{const _0x2d0ce6=_0x4d776a,{arg:_0x92c7c5,repondre:_0x326971,ms:_0x14e950,prefixe:_0x45583b}=_0x2d7af5;if(!_0x92c7c5[0x0]){_0x326971('Example\x20of'+_0x2d0ce6(0x1e3)+_0x2d0ce6(0x22e)+'\x0a\x20'+_0x45583b+(_0x2d0ce6(0x262)+_0x2d0ce6(0x1b7)));return;}let _0x1cb495=_0x92c7c5['join']('\x20');mumaker[_0x2d0ce6(0x1bc)](_0x2d0ce6(0x212)+_0x2d0ce6(0x25e)+_0x2d0ce6(0x1ee)+_0x2d0ce6(0x273)+_0x2d0ce6(0x254)+_0x2d0ce6(0x295),_0x1cb495)['then'](_0x444e7f=>{const _0x5be8f1=_0x2d0ce6;_0x466d8a[_0x5be8f1(0x200)+'e'](_0x1a2790,{'image':{'url':_0x444e7f['image']},'caption':_0x5be8f1(0x1ba)+_0x5be8f1(0x1ed)+'*'},{'quoted':_0x14e950});})[_0x2d0ce6(0x1fc)](console[_0x2d0ce6(0x281)]);}),france({'nomCom':_0x4d776a(0x1d0),'categorie':_0x4d776a(0x2a7),'reaction':'🌞'},async(_0x5d9929,_0x5b75ac,_0x3cd095)=>{const _0x328346=_0x4d776a,{arg:_0xca8169,repondre:_0x1455ca,ms:_0x2e6156,prefixe:_0xd2de27}=_0x3cd095;if(!_0xca8169[0x0]){_0x1455ca(_0x328346(0x1e9)+'\x20using\x20thi'+_0x328346(0x22e)+'\x0a\x20'+_0xd2de27+(_0x328346(0x224)+'nce\x20King'));return;}const _0x1d26fb=_0xca8169[_0x328346(0x1c1)]('\x20');mumaker[_0x328346(0x1bc)](_0x328346(0x212)+'.ephoto360'+'.com/creat'+_0x328346(0x220)+_0x328346(0x1c8)+'effects-on'+_0x328346(0x251)+_0x328346(0x295),_0x1d26fb)[_0x328346(0x1b5)](_0x3ecf64=>{const _0x44bac1=_0x328346;_0x5b75ac[_0x44bac1(0x200)+'e'](_0x5d9929,{'image':{'url':_0x3ecf64['image']},'caption':_0x44bac1(0x1ba)+_0x44bac1(0x207)},{'quoted':_0x2e6156});})['catch'](console[_0x328346(0x2a3)]);}),france({'nomCom':_0x4d776a(0x26f),'categorie':'Logo','reaction':'🍫'},async(_0x104096,_0x4cd36a,_0x40a9db)=>{const _0x55315c=_0x4d776a,{arg:_0x52eabe,repondre:_0x4a4349,ms:_0x205a50,prefixe:_0x2048f6}=_0x40a9db;if(!_0x52eabe||_0x52eabe==''){_0x4a4349(_0x55315c(0x1e9)+_0x55315c(0x1e3)+_0x55315c(0x22e)+'\x0a\x20'+_0x2048f6+(_0x55315c(0x1de)+_0x55315c(0x216)));return;}try{let _0x387e22=await mumaker['ephoto']('https://en'+_0x55315c(0x25e)+_0x55315c(0x270)+'late-text-'+'effect-353'+_0x55315c(0x27b),_0x52eabe);_0x4cd36a[_0x55315c(0x200)+'e'](_0x104096,{'image':{'url':_0x387e22[_0x55315c(0x23f)]},'caption':'Logo\x20by\x20*F'+_0x55315c(0x207)},{'quoted':_0x205a50});}catch(_0x1ecb12){_0x4a4349(_0x55315c(0x209)+_0x1ecb12);}}),france({'nomCom':_0x4d776a(0x22a),'categorie':'Logo','reaction':'🏢'},async(_0x466e14,_0x523993,_0x3bccc1)=>{const _0x50c414=_0x4d776a,{arg:_0x48df6b,repondre:_0x500d57,ms:_0x32a561,prefixe:_0x56b7cb}=_0x3bccc1;if(!_0x48df6b[0x0]){_0x500d57(_0x50c414(0x1e9)+_0x50c414(0x1e3)+_0x50c414(0x22e)+'\x0a\x20'+_0x56b7cb+(_0x50c414(0x22a)+_0x50c414(0x25a)+'ng'));return;}const _0x10b87d=_0x48df6b['join']('\x20');mumaker[_0x50c414(0x1bc)](_0x50c414(0x212)+_0x50c414(0x25e)+_0x50c414(0x277)+_0x50c414(0x2a5)+_0x50c414(0x23a)+'hanical-st'+_0x50c414(0x28e)+'ml',_0x10b87d)[_0x50c414(0x1b5)](_0x414f9e=>{const _0x137629=_0x50c414;_0x523993[_0x137629(0x200)+'e'](_0x466e14,{'image':{'url':_0x414f9e[_0x137629(0x23f)]},'caption':_0x137629(0x1ba)+'rance\x20King'+'*'},{'quoted':_0x32a561});})[_0x50c414(0x1fc)](console[_0x50c414(0x2a3)]);}),france({'nomCom':'rain','categorie':_0x4d776a(0x2a7),'reaction':'☔'},async(_0x22e90a,_0x9fe5d3,_0x14386c)=>{const _0x1e5ec2=_0x4d776a,{arg:_0x37b54a,repondre:_0x110218,ms:_0x4cee7d,prefixe:_0x23d7c9}=_0x14386c;if(!_0x37b54a[0x0]){_0x110218(_0x1e5ec2(0x1e9)+_0x1e5ec2(0x1e3)+_0x1e5ec2(0x22e)+'\x0a\x20'+_0x23d7c9+(_0x1e5ec2(0x1cf)+_0x1e5ec2(0x294)));return;}const _0xfcd1f1=_0x37b54a['join']('\x20');mumaker[_0x1e5ec2(0x1bc)](_0x1e5ec2(0x212)+'.ephoto360'+_0x1e5ec2(0x257)+_0x1e5ec2(0x28c)+_0x1e5ec2(0x1fd)+_0x1e5ec2(0x29e),_0xfcd1f1)[_0x1e5ec2(0x1b5)](_0x54a341=>{const _0x7ade47=_0x1e5ec2;_0x9fe5d3['sendMessag'+'e'](_0x22e90a,{'image':{'url':_0x54a341[_0x7ade47(0x23f)]},'caption':_0x7ade47(0x1ba)+_0x7ade47(0x1ed)+'*'},{'quoted':_0x4cee7d});})['catch'](console[_0x1e5ec2(0x2a3)]);}),france({'nomCom':_0x4d776a(0x21a),'categorie':_0x4d776a(0x2a7),'reaction':'🦺'},async(_0x2fc61d,_0x2994a5,_0x38277e)=>{const _0x539681=_0x4d776a,{arg:_0x370284,repondre:_0x15fb61,ms:_0x28d6ea,prefixe:_0x43e6fd}=_0x38277e;if(!_0x370284[0x0]){_0x15fb61(_0x539681(0x1e9)+_0x539681(0x1e3)+_0x539681(0x22e)+'\x0a\x20'+_0x43e6fd+(_0x539681(0x24c)+_0x539681(0x217)));return;}mumaker[_0x539681(0x1bc)](_0x539681(0x212)+_0x539681(0x25e)+_0x539681(0x20d)+_0x539681(0x230)+_0x539681(0x1da)+_0x539681(0x295),_0x370284)[_0x539681(0x1b5)](_0xa07682=>{const _0x1f0494=_0x539681;_0x2994a5[_0x1f0494(0x200)+'e'](_0x2fc61d,{'image':{'url':_0xa07682[_0x1f0494(0x23f)]},'caption':_0x1f0494(0x1ba)+_0x1f0494(0x207)},{'quoted':_0x28d6ea});})['catch'](console[_0x539681(0x2a3)]);}),france({'nomCom':_0x4d776a(0x22b),'categorie':'Logo','reaction':'💥'},async(_0x3940bc,_0x453ea6,_0x46f491)=>{const _0xaed4a0=_0x4d776a;if(!_0xc0638||_0xc0638==''){_0x3f898a('\x20\x20Example\x20'+':*\x20'+_0x338b80+('graffiti\x20F'+_0xaed4a0(0x1dd)));return;}try{console[_0xaed4a0(0x281)](_0xc0638);var _0x429ca1=await mumaker[_0xaed4a0(0x1bc)]('https://en'+'.ephoto360'+_0xaed4a0(0x277)+_0xaed4a0(0x263)+_0xaed4a0(0x243)+_0xaed4a0(0x1f7)+_0xaed4a0(0x21f),_0xc0638);_0x3f898a('\x20Processin'+_0xaed4a0(0x286)),await _0x453ea6[_0xaed4a0(0x200)+'e'](_0x3940bc,{'image':{'url':_0x429ca1[_0xaed4a0(0x23f)]},'caption':_0xaed4a0(0x268)+_0xaed4a0(0x1bd)});}catch(_0x153f18){_0x3f898a('🥵🥵\x20'+_0x153f18);}}),france({'nomCom':'water','categorie':_0x4d776a(0x2a7),'reaction':'💦'},async(_0x59c858,_0x3c6856,_0x351799)=>{const _0x1483c3=_0x4d776a,{arg:_0x4ad23f,repondre:_0x102fb4,ms:_0x3f1813,prefixe:_0x13b7f4}=_0x351799;if(!_0x4ad23f[0x0]){_0x102fb4(_0x1483c3(0x1e9)+_0x1483c3(0x1e3)+'s\x20command:'+'\x0a\x20'+_0x13b7f4+(_0x1483c3(0x298)+_0x1483c3(0x1b7)));return;}let _0x438e16=_0x4ad23f['join']('\x20');mumaker[_0x1483c3(0x1bc)](_0x1483c3(0x212)+_0x1483c3(0x25e)+_0x1483c3(0x277)+'e-water-ef'+_0x1483c3(0x201)+_0x1483c3(0x26d)+'.html',_0x438e16)[_0x1483c3(0x1b5)](_0x42ebe4=>{const _0x4529e3=_0x1483c3;_0x3c6856[_0x4529e3(0x200)+'e'](_0x59c858,{'image':{'url':_0x42ebe4['image']},'caption':_0x4529e3(0x1ba)+_0x4529e3(0x1ed)+'*'},{'quoted':_0x3f1813});})[_0x1483c3(0x1fc)](console[_0x1483c3(0x281)]);}),france({'nomCom':'1917','categorie':_0x4d776a(0x2a7),'reaction':'😤'},async(_0x5679b2,_0x2aa812,_0xf735c8)=>{const _0x306c5a=_0x4d776a,{arg:_0x2b69cf,ms:_0xcc6503,prefixe:_0x1bc1d3,repondre:_0x3e8d85}=_0xf735c8;if(!_0x2b69cf[0x0]){_0x3e8d85(_0x306c5a(0x1e9)+_0x306c5a(0x1e3)+_0x306c5a(0x22e)+'\x0a\x20'+_0x1bc1d3+(_0x306c5a(0x1d1)+'\x20King'));return;}const _0x5cb3fe=_0x2b69cf[_0x306c5a(0x1c1)]('\x20');mumaker[_0x306c5a(0x1bc)](_0x306c5a(0x212)+'.ephoto360'+'.com/1917-'+_0x306c5a(0x1d9)+_0x306c5a(0x1be)+'3.html',_0x5cb3fe)['then'](_0x2c6b02=>{const _0x667327=_0x306c5a;_0x2aa812[_0x667327(0x200)+'e'](_0x5679b2,{'image':{'url':_0x2c6b02[_0x667327(0x23f)]},'caption':_0x667327(0x29b)+_0x667327(0x207)},{'quoted':_0xcc6503});})['catch'](_0x274c3e=>{const _0x4580dd=_0x306c5a;console['error']('An\x20error\x20o'+_0x4580dd(0x1d2),_0x274c3e);});}),france({'nomCom':_0x4d776a(0x1e6),'categorie':_0x4d776a(0x2a7),'reaction':'💥'},async(_0x290373,_0x1c2264,_0x42485e)=>{const _0x159773=_0x4d776a,{prefixe:_0x259b00,arg:_0x371bfa,ms:_0x3b025e,repondre:_0x3d33da}=_0x42485e;if(!_0x371bfa||_0x371bfa==''){_0x3d33da(_0x159773(0x1cd)+_0x159773(0x235)+_0x259b00+(_0x159773(0x231)+'France'));return;}try{let _0x15648f=await mumaker[_0x159773(0x1bc)]('https://en'+_0x159773(0x25e)+_0x159773(0x277)+_0x159773(0x1f3)+'n-style-gr'+_0x159773(0x250)+_0x159773(0x210)+_0x159773(0x26e)+_0x159773(0x292),_0x371bfa);_0x3d33da('*FLASH-MD\x20'+_0x159773(0x272)+_0x159773(0x29c)+_0x159773(0x236)),await _0x1c2264[_0x159773(0x200)+'e'](_0x290373,{'image':{'url':_0x15648f[_0x159773(0x23f)]},'caption':_0x159773(0x2ab)+'\x20FLASH-MD*'},{'quoted':_0x3b025e});}catch(_0x4fe94d){_0x3d33da(_0x159773(0x209)+_0x4fe94d);}}),france({'nomCom':_0x4d776a(0x28d),'categorie':_0x4d776a(0x2a7),'reaction':'⚡'},async(_0xab65b,_0xe2d9d0,_0x30304f)=>{const _0x162632=_0x4d776a,{arg:_0x1eeace,ms:_0x237ae5,prefixe:_0x1f7a53,repondre:_0x846d63}=_0x30304f;if(!_0x1eeace[0x0]){_0x846d63(_0x162632(0x1b0)+_0x162632(0x246)+_0x162632(0x1e0)+_0x1f7a53+(_0x162632(0x1e4)+'\x20text'));return;}const _0x3467d3=_0x1eeace[_0x162632(0x1c1)]('\x20');mumaker[_0x162632(0x288)](_0x162632(0x1e7)+_0x162632(0x226)+_0x162632(0x1cc)+_0x162632(0x29f)+'ffect-gene'+_0x162632(0x20e)+_0x162632(0x27b),_0x3467d3)[_0x162632(0x1b5)](_0x2d704d=>{const _0x5c6880=_0x162632;_0xe2d9d0['sendMessag'+'e'](_0xab65b,{'image':{'url':_0x2d704d[_0x5c6880(0x23f)]},'caption':'Logo\x20by\x20*F'+_0x5c6880(0x207)},{'quoted':_0x237ae5});})[_0x162632(0x1fc)](_0x5d3bf5=>{const _0xb48618=_0x162632;console[_0xb48618(0x2a3)](_0xb48618(0x1fe)+_0xb48618(0x219)+_0xb48618(0x1e5),_0x5d3bf5);});}),france({'nomCom':_0x4d776a(0x274),'categorie':_0x4d776a(0x2a7),'reaction':'💥'},async(_0x1cf888,_0x200d31,_0xd6ac39)=>{const _0x59ebcb=_0x4d776a,{arg:_0x3cb342,ms:_0x4984b4,prefixe:_0x417bff,repondre:_0x729cd7}=_0xd6ac39;if(!_0x3cb342[0x0]){_0x729cd7(_0x59ebcb(0x1e9)+_0x59ebcb(0x1e3)+'s\x20command:'+'\x0a\x20'+_0x417bff+(_0x59ebcb(0x1e2)+'e\x20King'));return;}const _0x273c85=_0x3cb342['join']('\x20');mumaker[_0x59ebcb(0x1bc)](_0x59ebcb(0x212)+_0x59ebcb(0x25e)+'.com/boom-'+_0x59ebcb(0x218)+_0x59ebcb(0x1f4)+_0x59ebcb(0x242)+_0x59ebcb(0x29a),_0x273c85)[_0x59ebcb(0x1b5)](_0x5af3b6=>{const _0x24b8ad=_0x59ebcb;_0x200d31['sendMessag'+'e'](_0x1cf888,{'image':{'url':_0x5af3b6[_0x24b8ad(0x23f)]},'caption':'Logo\x20BY\x20*F'+_0x24b8ad(0x207)},{'quoted':_0x4984b4});})['catch'](_0x4ef038=>{const _0x208bd8=_0x59ebcb;console[_0x208bd8(0x2a3)](_0x208bd8(0x1fe)+_0x208bd8(0x219)+_0x208bd8(0x1e5),_0x4ef038);});}),france({'nomCom':'cat','categorie':_0x4d776a(0x2a7),'reaction':'🪟'},async(_0x4a08d6,_0x2276e4,_0xd8f2a4)=>{const _0x1389cd=_0x4d776a,{arg:_0x34e58e,ms:_0x218fe5,prefixe:_0x4cd42e}=_0xd8f2a4;if(!_0x34e58e[0x0]){repondre('Example\x20of'+_0x1389cd(0x1e3)+_0x1389cd(0x22e)+'\x0a\x20'+_0x4cd42e+('cat\x20Flash\x20'+'Md'));return;}const _0x3d89bc=_0x34e58e[_0x1389cd(0x1c1)]('\x20');mumaker[_0x1389cd(0x1bc)](_0x1389cd(0x212)+_0x1389cd(0x25e)+'.com/handw'+_0x1389cd(0x1ef)+_0x1389cd(0x27d)+'-glass-onl'+'ine-680.ht'+'ml',_0x3d89bc)[_0x1389cd(0x1b5)](_0x2e22be=>{const _0x49415a=_0x1389cd;_0x2276e4[_0x49415a(0x200)+'e'](_0x4a08d6,{'image':{'url':_0x2e22be[_0x49415a(0x23f)]},'caption':_0x49415a(0x29b)+_0x49415a(0x207)},{'quoted':_0x218fe5});})['catch'](_0x55d074=>{const _0x4e0553=_0x1389cd;console[_0x4e0553(0x2a3)](_0x4e0553(0x1fe)+_0x4e0553(0x219)+'duite\x20:',_0x55d074);});}),france({'nomCom':_0x4d776a(0x2a1),'categorie':_0x4d776a(0x2a7),'reaction':'💫'},async(_0x44976a,_0x1362fd,_0x389ad7)=>{const _0x467059=_0x4d776a,{arg:_0x5d2ae5,ms:_0x50a47b,prefixe:_0x187a1d,repondre:_0x47a61d}=_0x389ad7;if(!_0x5d2ae5[0x0]){_0x47a61d(_0x467059(0x1b0)+_0x467059(0x246)+_0x467059(0x1e0)+_0x187a1d+('WhiteGold\x20'+_0x467059(0x1f5)));return;}const _0x38e515=_0x5d2ae5[_0x467059(0x1c1)]('\x20');mumaker['textpro'](_0x467059(0x1e7)+_0x467059(0x221)+'legant-whi'+_0x467059(0x232)+_0x467059(0x241)+_0x467059(0x252)+_0x467059(0x20a)+_0x467059(0x292),_0x38e515)[_0x467059(0x1b5)](_0x4f00bf=>{const _0x10586f=_0x467059;_0x1362fd[_0x10586f(0x200)+'e'](_0x44976a,{'image':{'url':_0x4f00bf[_0x10586f(0x23f)]},'caption':_0x10586f(0x29b)+_0x10586f(0x207)},{'quoted':_0x50a47b});})[_0x467059(0x1fc)](_0x202db3=>{const _0x8cdcdd=_0x467059;console[_0x8cdcdd(0x2a3)]('Une\x20erreur'+'\x20s\x27est\x20pro'+'duite\x20:',_0x202db3);});}),france({'nomCom':'lightglow','categorie':_0x4d776a(0x2a7),'reaction':'🌟'},async(_0x43e95f,_0x19e5d3,_0x5a0eba)=>{const _0x49585c=_0x4d776a,{arg:_0x3ad2fe,ms:_0x1d3c7f,prefixe:_0x3e2de9,repondre:_0x135a8b}=_0x5a0eba;if(!_0x3ad2fe[0x0]){_0x135a8b(_0x49585c(0x1b0)+_0x49585c(0x246)+_0x49585c(0x1e0)+_0x3e2de9+('LightGlow\x20'+_0x49585c(0x1f5)));return;}const _0x2790d9=_0x3ad2fe[_0x49585c(0x1c1)]('\x20');mumaker[_0x49585c(0x288)](_0x49585c(0x1e7)+_0x49585c(0x1c5)+'reate-ligh'+_0x49585c(0x239)+_0x49585c(0x1c7)+_0x49585c(0x25b)+'ne-1068.ht'+'ml',_0x2790d9)['then'](_0x57fe3c=>{const _0x239785=_0x49585c;_0x19e5d3[_0x239785(0x200)+'e'](_0x43e95f,{'image':{'url':_0x57fe3c['image']},'caption':'Logo\x20BY\x20*F'+'LASH-MD*'},{'quoted':_0x1d3c7f});})['catch'](_0x1c2b2b=>{const _0x4f43e7=_0x49585c;console[_0x4f43e7(0x2a3)]('Une\x20erreur'+'\x20s\x27est\x20pro'+_0x4f43e7(0x1e5),_0x1c2b2b);});}),france({'nomCom':_0x4d776a(0x1ce),'categorie':'Logo','reaction':'🔨'},async(_0x23ae69,_0x595c10,_0xd40f5f)=>{const _0x5235d3=_0x4d776a,{arg:_0x28a839,ms:_0x209955,prefixe:_0x55e571,repondre:_0x126b14}=_0xd40f5f;if(!_0x28a839[0x0]){_0x126b14(_0x5235d3(0x1b0)+'\x20using\x20com'+_0x5235d3(0x1e0)+_0x55e571+('Thor\x20My\x20te'+'xt'));return;}const _0xfbbc25=_0x28a839['join']('\x20');mumaker[_0x5235d3(0x1bc)](_0x5235d3(0x212)+'.ephoto360'+_0x5235d3(0x277)+_0x5235d3(0x21d)+_0x5235d3(0x1fa)+'fects-onli'+_0x5235d3(0x23d)+_0x5235d3(0x204),_0xfbbc25)[_0x5235d3(0x1b5)](_0x590a3e=>{const _0x3eaf84=_0x5235d3;_0x595c10[_0x3eaf84(0x200)+'e'](_0x23ae69,{'image':{'url':_0x590a3e[_0x3eaf84(0x23f)]},'caption':'Logo\x20BY\x20*F'+_0x3eaf84(0x207)},{'quoted':_0x209955});})[_0x5235d3(0x1fc)](_0x555316=>{const _0x13d03d=_0x5235d3;console['error']('Une\x20erreur'+_0x13d03d(0x219)+_0x13d03d(0x1e5),_0x555316);});}),france({'nomCom':_0x4d776a(0x1eb),'categorie':'Logo','reaction':'💡'},async(_0x32e9ad,_0x304a98,_0x53f015)=>{const _0x508c1c=_0x4d776a,{arg:_0x5e7c77,ms:_0x30dec4,prefixe:_0x3cf885,repondre:_0x591a35}=_0x53f015;if(!_0x5e7c77[0x0]){_0x591a35(_0x508c1c(0x1b0)+_0x508c1c(0x246)+_0x508c1c(0x1e0)+_0x3cf885+(_0x508c1c(0x214)+'xt'));return;}const _0x335505=_0x5e7c77[_0x508c1c(0x1c1)]('\x20');mumaker[_0x508c1c(0x288)](_0x508c1c(0x1e7)+_0x508c1c(0x2a8)+'eon-text-e'+_0x508c1c(0x25b)+_0x508c1c(0x1b8)+'l',_0x335505)[_0x508c1c(0x1b5)](_0x15dbc7=>{const _0x15438b=_0x508c1c;_0x304a98[_0x15438b(0x200)+'e'](_0x32e9ad,{'image':{'url':_0x15dbc7['image']},'caption':_0x15438b(0x29b)+_0x15438b(0x207)},{'quoted':_0x30dec4});})['catch'](_0x372832=>{const _0x4a78c9=_0x508c1c;console[_0x4a78c9(0x2a3)](_0x4a78c9(0x1fe)+_0x4a78c9(0x219)+_0x4a78c9(0x1e5),_0x372832);});}),france({'nomCom':_0x4d776a(0x26c),'categorie':_0x4d776a(0x2a7),'reaction':'🧳'},async(_0x3177fc,_0x140ef3,_0x10029a)=>{const _0x541ea5=_0x4d776a;try{if(!_0x24f439||_0x24f439==''){_0x249bc6(_0x2691de+('purple\x20Fla'+'sh'));return;}var _0x2ab660=await mumaker[_0x541ea5(0x1bc)](_0x541ea5(0x212)+_0x541ea5(0x25e)+_0x541ea5(0x1d7)+_0x541ea5(0x228)+_0x541ea5(0x1fb)+_0x541ea5(0x282),_0x24f439);_0x249bc6(_0x541ea5(0x27c)+'g\x20...'),await _0x140ef3[_0x541ea5(0x200)+'e'](_0x3177fc,{'image':{'url':_0x2ab660[_0x541ea5(0x23f)]},'caption':_0x541ea5(0x1df)+_0x541ea5(0x207)});}catch(_0x595415){_0x249bc6(_0x595415);}}),france({'nomCom':_0x4d776a(0x289),'categorie':_0x4d776a(0x2a7),'reaction':_0x4d776a(0x1f8)},async(_0x2eada4,_0x5be5c7,_0x19ad27)=>{const _0x32972d=_0x4d776a;let {ms:_0x38f46e,arg:_0x30cdf3,prefixe:_0x18e2a1,repondre:_0x337c3e}=_0x19ad27;try{if(!_0x30cdf3||_0x30cdf3==''){_0x337c3e(_0x18e2a1+(_0x32972d(0x253)+_0x32972d(0x297)));return;}var _0x19ea52=await mumaker[_0x32972d(0x1bc)]('https://en'+_0x32972d(0x25e)+_0x32972d(0x223)+_0x32972d(0x27f)+_0x32972d(0x1cb),_0x30cdf3);_0x337c3e(_0x32972d(0x20b)+'\x20...'),await _0x5be5c7['sendMessag'+'e'](_0x2eada4,{'image':{'url':_0x19ea52[_0x32972d(0x23f)]},'caption':_0x32972d(0x268)+_0x32972d(0x1bd)},{'quoted':_0x38f46e});}catch(_0xf1b845){_0x337c3e(_0xf1b845);}}),france({'nomCom':_0x4d776a(0x24a),'categorie':'Logo','reaction':'🥵'},async(_0x481d77,_0x2fee7d,_0x434eef)=>{const _0x18bb64=_0x4d776a;let {ms:_0x3b5c34,arg:_0x2b43b9,prefixe:_0x179d90,repondre:_0x5a5cdc}=_0x434eef;try{if(!_0x2b43b9||_0x2b43b9==''){_0x5a5cdc(_0x179d90+('arena\x20Flas'+_0x18bb64(0x20c)));return;}var _0x52cc72=await mumaker[_0x18bb64(0x1bc)](_0x18bb64(0x212)+_0x18bb64(0x25e)+_0x18bb64(0x277)+'e-cover-ar'+_0x18bb64(0x1c4)+_0x18bb64(0x1f6)+_0x18bb64(0x269)+_0x18bb64(0x292),_0x2b43b9[_0x18bb64(0x1c1)]('\x20'));_0x5a5cdc(_0x18bb64(0x20b)+_0x18bb64(0x291)),await _0x2fee7d[_0x18bb64(0x200)+'e'](_0x481d77,{'image':{'url':_0x52cc72[_0x18bb64(0x23f)]},'caption':_0x18bb64(0x268)+_0x18bb64(0x1bd)},{'quoted':_0x3b5c34});}catch(_0x3195ea){_0x5a5cdc(_0x3195ea);}}),france({'nomCom':_0x4d776a(0x25d)+'nt','categorie':_0x4d776a(0x2a7),'reaction':'😋'},async(_0x2fc434,_0x4f6eb0,_0x429d9c)=>{const _0x9d2f08=_0x4d776a;let {ms:_0x9e50b5,arg:_0x5cfe84,prefixe:_0x459e2b,repondre:_0x3855b1}=_0x429d9c;try{if(!_0x5cfe84||_0x5cfe84==''){_0x3855b1(_0x459e2b+(_0x9d2f08(0x25d)+_0x9d2f08(0x1c2)+'D'));return;}var _0x196bbb=await mumaker[_0x9d2f08(0x1bc)](_0x9d2f08(0x212)+_0x9d2f08(0x25e)+_0x9d2f08(0x20d)+_0x9d2f08(0x244)+_0x9d2f08(0x290)+_0x9d2f08(0x1bb)+_0x9d2f08(0x27b),_0x5cfe84['join']('\x20'));_0x3855b1(_0x9d2f08(0x20b)+_0x9d2f08(0x291)),await _0x4f6eb0[_0x9d2f08(0x200)+'e'](_0x2fc434,{'image':{'url':_0x196bbb[_0x9d2f08(0x23f)]},'caption':'\x20*Logo\x20by\x20'+_0x9d2f08(0x1bd)},{'quoted':_0x9e50b5});}catch(_0x3d34ba){_0x3855b1(_0x3d34ba);}}),france({'nomCom':'child','categorie':'Logo','reaction':'😇'},async(_0x2350c7,_0x42ce83,_0x37a42c)=>{const _0xdf1039=_0x4d776a;let {ms:_0x3c9711,arg:_0x1fbd63,prefixe:_0x2c3f4c,repondre:_0x401a78}=_0x37a42c;try{if(!_0x1fbd63||_0x1fbd63==''){_0x401a78(_0x2c3f4c+('child\x20Flas'+_0xdf1039(0x20c)));return;}var _0x1455e8=await mumaker['ephoto']('https://en'+_0xdf1039(0x25e)+_0xdf1039(0x258)+'-text-on-w'+_0xdf1039(0x225)+_0xdf1039(0x299)+_0xdf1039(0x292),_0x1fbd63['join']('\x20'));_0x401a78(_0xdf1039(0x20b)+_0xdf1039(0x291)),await _0x42ce83['sendMessag'+'e'](_0x2350c7,{'image':{'url':_0x1455e8[_0xdf1039(0x23f)]},'caption':_0xdf1039(0x268)+_0xdf1039(0x1bd)},{'quoted':_0x3c9711});}catch(_0x2bf75b){_0x401a78(_0x2bf75b);}}),france({'nomCom':'typo','categorie':_0x4d776a(0x2a7),'reaction':'😇'},async(_0x2ceb7a,_0x2c5397,_0x507266)=>{const _0x43a8e8=_0x4d776a;let {ms:_0x10ac3a,arg:_0x72b58c,prefixe:_0x3db091,repondre:_0x2a6ebf}=_0x507266;try{if(!_0x72b58c||_0x72b58c==''){_0x2a6ebf(_0x3db091+(_0x43a8e8(0x1c6)+'-MD'));return;}var _0x37cd5e=await mumaker['ephoto'](_0x43a8e8(0x212)+_0x43a8e8(0x25e)+'.com/typog'+_0x43a8e8(0x1b4)+_0x43a8e8(0x1d6)+_0x43a8e8(0x26b)+_0x43a8e8(0x248)+_0x43a8e8(0x27b),_0x72b58c['join']('\x20'));_0x2a6ebf('processing'+'\x20...'),await _0x2c5397[_0x43a8e8(0x200)+'e'](_0x2ceb7a,{'image':{'url':_0x37cd5e[_0x43a8e8(0x23f)]},'caption':_0x43a8e8(0x268)+_0x43a8e8(0x1bd)},{'quoted':_0x10ac3a});}catch(_0x508940){_0x2a6ebf(_0x508940);}}),france({'nomCom':'light','categorie':_0x4d776a(0x2a7),'reaction':'🌠'},async(_0x2c15e1,_0x2f604a,_0x16dea1)=>{const _0x9c91f4=_0x4d776a;let {ms:_0x17deef,arg:_0x454e01,prefixe:_0x37970b,repondre:_0x21b9a7}=_0x16dea1;try{if(!_0x454e01||_0x454e01==''){_0x21b9a7(_0x37970b+(_0x9c91f4(0x2a6)+'h-MD'));return;}var _0x62464b=await mumaker['ephoto'](_0x9c91f4(0x212)+_0x9c91f4(0x25e)+_0x9c91f4(0x205)+_0x9c91f4(0x241)+_0x9c91f4(0x234)+'tic-techno'+_0x9c91f4(0x27a)+_0x9c91f4(0x283),_0x454e01[_0x9c91f4(0x1c1)]('\x20'));_0x21b9a7('processing'+_0x9c91f4(0x291)),await _0x2f604a[_0x9c91f4(0x200)+'e'](_0x2c15e1,{'image':{'url':_0x62464b[_0x9c91f4(0x23f)]},'caption':_0x9c91f4(0x268)+_0x9c91f4(0x1bd)},{'quoted':_0x17deef});}catch(_0xace3cd){_0x21b9a7(_0xace3cd);}}),france({'nomCom':_0x4d776a(0x233),'categorie':_0x4d776a(0x2a7),'reaction':'🌠'},async(_0x3bcc6c,_0x113f60,_0x33289c)=>{const _0x4ca769=_0x4d776a;let {ms:_0x539b08,arg:_0x4120b9,prefixe:_0x3198d3,repondre:_0x5344d6}=_0x33289c;try{if(!_0x4120b9||_0x4120b9==''){_0x5344d6(_0x3198d3+(_0x4ca769(0x21b)+_0x4ca769(0x20c)));return;}var _0x42de6a=await mumaker[_0x4ca769(0x1bc)]('https://en'+_0x4ca769(0x25e)+_0x4ca769(0x245)+_0x4ca769(0x2a0)+_0x4ca769(0x1ca)+_0x4ca769(0x284)+_0x4ca769(0x27b),_0x4120b9[_0x4ca769(0x1c1)]('\x20'));_0x5344d6(_0x4ca769(0x20b)+_0x4ca769(0x291)),await _0x113f60['sendMessag'+'e'](_0x3bcc6c,{'image':{'url':_0x42de6a[_0x4ca769(0x23f)]},'caption':'\x20*Logo\x20by\x20'+_0x4ca769(0x1bd)},{'quoted':_0x539b08});}catch(_0x117a91){_0x5344d6(_0x117a91);}}),france({'nomCom':_0x4d776a(0x267),'categorie':_0x4d776a(0x2a7),'reaction':'🌠'},async(_0x4042aa,_0xe37796,_0x7b81d1)=>{const _0x56fd9b=_0x4d776a;let {ms:_0x187ca0,arg:_0x37a95d,prefixe:_0x62fb5e,repondre:_0x46eaaf}=_0x7b81d1;try{if(!_0x37a95d||_0x37a95d==''){_0x46eaaf(_0x62fb5e+(_0x56fd9b(0x22f)+_0x56fd9b(0x276)));return;}var _0x22d144=await mumaker[_0x56fd9b(0x1bc)](_0x56fd9b(0x212)+_0x56fd9b(0x25e)+_0x56fd9b(0x1dc)+'ght-shadow'+_0x56fd9b(0x2a4)+_0x56fd9b(0x292),_0x37a95d['join']('\x20'));_0x46eaaf('processing'+'\x20...'),await _0xe37796['sendMessag'+'e'](_0x4042aa,{'image':{'url':_0x22d144[_0x56fd9b(0x23f)]},'caption':_0x56fd9b(0x268)+'FLASH-MD*'},{'quoted':_0x187ca0});}catch(_0x1767c7){_0x46eaaf(_0x1767c7);}}),france({'nomCom':_0x4d776a(0x1c0),'categorie':_0x4d776a(0x2a7),'reaction':'❄'},async(_0x1e034d,_0x2c1578,_0x17e783)=>{const _0x485740=_0x4d776a,{arg:_0x2bd4e9,ms:_0x4d6c39,prefixe:_0x599663,repondre:_0x549781}=_0x17e783;if(!_0x2bd4e9[0x0]){_0x549781(_0x485740(0x1e9)+_0x485740(0x1e3)+'s\x20command:'+'\x0a\x20'+_0x599663+('frozen\x20Kin'+'g'));return;}const _0x51c1c8=_0x2bd4e9['join']('\x20');mumaker['ephoto'](_0x485740(0x212)+_0x485740(0x25e)+_0x485740(0x277)+_0x485740(0x1b2)+_0x485740(0x285)+'-text-effe'+'ct-online-'+'792.html',_0x51c1c8)[_0x485740(0x1b5)](_0x3c7022=>{const _0x7d559c=_0x485740;_0x2c1578['sendMessag'+'e'](_0x1e034d,{'image':{'url':_0x3c7022[_0x7d559c(0x23f)]},'caption':_0x7d559c(0x29b)+_0x7d559c(0x207)},{'quoted':_0x4d6c39});})[_0x485740(0x1fc)](_0x2b527b=>{const _0x6701b2=_0x485740;console[_0x6701b2(0x2a3)](_0x6701b2(0x1fe)+'\x20s\x27est\x20pro'+_0x6701b2(0x1e5),_0x2b527b);});}),france({'nomCom':_0x4d776a(0x215),'categorie':_0x4d776a(0x2a7),'reaction':'♨️'},async(_0x1c1328,_0x5c66fa,_0x4ae582)=>{const _0x11fd8e=_0x4d776a,{arg:_0x528c07,ms:_0x3a3eb9,prefixe:_0x2b8798,repondre:_0x100ccf}=_0x4ae582;if(!_0x528c07[0x0]){_0x100ccf(_0x11fd8e(0x1e9)+'\x20using\x20com'+_0x11fd8e(0x23c)+_0x2b8798+(_0x11fd8e(0x28a)+_0x11fd8e(0x264)));return;}const _0x2dca5f=_0x528c07[_0x11fd8e(0x1c1)]('\x20');mumaker[_0x11fd8e(0x288)](_0x11fd8e(0x1e7)+'xtpro.me/c'+'reate-a-ma'+_0x11fd8e(0x261)+_0x11fd8e(0x1ca)+_0x11fd8e(0x28f)+_0x11fd8e(0x222),_0x2dca5f)[_0x11fd8e(0x1b5)](_0x9b9903=>{const _0x20db1a=_0x11fd8e;_0x5c66fa[_0x20db1a(0x200)+'e'](_0x1c1328,{'image':{'url':_0x9b9903[_0x20db1a(0x23f)]},'caption':'Logo\x20BY\x20*F'+'LASH-MD*'},{'quoted':_0x3a3eb9});})[_0x11fd8e(0x1fc)](_0x300715=>{const _0x415ee2=_0x11fd8e;console[_0x415ee2(0x2a3)](_0x415ee2(0x1fe)+_0x415ee2(0x219)+_0x415ee2(0x1e5),_0x300715);});}),france({'nomCom':_0x4d776a(0x24f),'categorie':'Logo','reaction':'☘️'},async(_0x43f230,_0x37c671,_0xb896bb)=>{const _0x2d365c=_0x4d776a,{arg:_0x5de062,ms:_0x2ebdae,prefixe:_0x32f384,repondre:_0x5c693e}=_0xb896bb;if(!_0x5de062[0x0]){_0x5c693e(_0x2d365c(0x1e9)+'\x20using\x20com'+_0x2d365c(0x23c)+_0x32f384+('leaves\x20My\x20'+_0x2d365c(0x1d4)));return;}const _0x452304=_0x5de062[_0x2d365c(0x1c1)]('\x20');mumaker[_0x2d365c(0x1bc)](_0x2d365c(0x212)+_0x2d365c(0x25e)+_0x2d365c(0x227)+_0x2d365c(0x247)+_0x2d365c(0x1e8)+_0x2d365c(0x1af)+_0x2d365c(0x21c)+_0x2d365c(0x22c)+'l',_0x452304)[_0x2d365c(0x1b5)](_0x9e01b9=>{const _0x56f564=_0x2d365c;_0x37c671[_0x56f564(0x200)+'e'](_0x43f230,{'image':{'url':_0x9e01b9['image']},'caption':_0x56f564(0x29b)+_0x56f564(0x207)},{'quoted':_0x2ebdae});})[_0x2d365c(0x1fc)](_0x250a35=>{const _0x367e16=_0x2d365c;console['error']('Une\x20erreur'+_0x367e16(0x219)+_0x367e16(0x1e5),_0x250a35);});});
+const {
+  france
+} = require("../framework/france");
+var mumaker = require("mumaker");
+france({
+  'nomCom': "hacker",
+  'categorie': "Logo",
+  'reaction': "👨🏿‍💻"
+}, async (_0x4bf79d, _0x87b803, _0x269a3b) => {
+  const {
+    prefixe: _0x35884e,
+    arg: _0x72a2f4,
+    ms: _0x4292b8,
+    repondre: _0x557f9f
+  } = _0x269a3b;
+  if (!_0x72a2f4 || _0x72a2f4 == '') {
+    _0x557f9f("*__Exemple : * " + _0x35884e + "hacker Sahan");
+    return;
+  }
+  try {
+    let _0x3e5170 = await mumaker.ephoto("https://en.ephoto360.com/create-anonymous-hacker-avatars-cyan-neon-677.html", _0x72a2f4);
+    _0x557f9f("*processing...*");
+    await _0x87b803.sendMessage(_0x4bf79d, {
+      'image': {
+        'url': _0x3e5170.image
+      },
+      'caption': "\t *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x4292b8
+    });
+  } catch (_0x5f4493) {
+    _0x557f9f("🥵🥵 " + _0x5f4493);
+  }
+});
+france({
+  'nomCom': "sand",
+  'categorie': "Logo",
+  'reaction': '⌛'
+}, async (_0xde980e, _0xf2325, _0x2fa631) => {
+  const {
+    prefixe: _0x1ee813,
+    arg: _0x332962,
+    ms: _0x1e9b24,
+    repondre: _0x1cb34a
+  } = _0x2fa631;
+  if (!_0x332962 || _0x332962 == '') {
+    _0x1cb34a("*Example Usage : * " + _0x1ee813 + "sand Sahan");
+    return;
+  }
+  try {
+    let _0x329cf5 = await mumaker.ephoto("https://en.ephoto360.com/write-names-and-messages-on-the-sand-online-582.html", _0x332962);
+    _0x1cb34a("*Flash-Md is Processing...*");
+    await _0xf2325.sendMessage(_0xde980e, {
+      'image': {
+        'url': _0x329cf5.image
+      },
+      'caption': "\t *Logo By FLASH-MD*"
+    }, {
+      'quoted': _0x1e9b24
+    });
+  } catch (_0x22095c) {
+    _0x1cb34a("🚫🚫 " + _0x22095c);
+  }
+});
+france({
+  'nomCom': 'dragonball',
+  'categorie': "Logo",
+  'reaction': '🐉'
+}, async (_0x255896, _0x188ce5, _0x13e70b) => {
+  let {
+    arg: _0x1cc07a,
+    repondre: _0x29ec23,
+    prefixe: _0x23b64f,
+    ms: _0x393ef6
+  } = _0x13e70b;
+  try {
+    const _0x3067cc = "*_EXAMPLE *:  " + _0x23b64f + "dragonball FranceKing";
+    if (_0x1cc07a == '' || !_0x1cc07a) {
+      _0x29ec23(_0x3067cc);
+      return;
+    }
+    const _0x1ccfb9 = await mumaker.ephoto("https://en.ephoto360.com/create-dragon-ball-style-text-effects-online-809.html", _0x1cc07a.join(" "));
+    await _0x188ce5.sendMessage(_0x255896, {
+      'text': "*Processing...*"
+    }, {
+      'quoted': _0x393ef6
+    });
+    await _0x188ce5.sendMessage(_0x255896, {
+      'image': {
+        'url': _0x1ccfb9.image
+      },
+      'caption': " \t *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x393ef6
+    });
+  } catch (_0x4a45ab) {
+    _0x29ec23("🥵🥵 " + _0x4a45ab);
+  }
+});
+france({
+  'nomCom': "naruto",
+  'categorie': "Logo",
+  'reaction': '⛩'
+}, async (_0x429b37, _0x2a0575, _0x491412) => {
+  let {
+    ms: _0x17eb88,
+    arg: _0x4a1bea,
+    repondre: _0xfa9047,
+    prefixe: _0x303ebd
+  } = _0x491412;
+  try {
+    if (!_0x4a1bea || _0x4a1bea == '') {
+      _0xfa9047("*_Example : * " + _0x303ebd + "naruto Sahan");
+      return;
+    }
+    _0xfa9047("*FLASH-MD is Processing Your Request...*");
+    var _0x1b911f = await mumaker.ephoto("https://en.ephoto360.com/naruto-shippuden-logo-style-text-effect-online-808.html", _0x4a1bea.join(" "));
+    await _0x2a0575.sendMessage(_0x429b37, {
+      'image': {
+        'url': _0x1b911f.image
+      },
+      'caption': "\t *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x17eb88
+    });
+  } catch (_0x2a6579) {
+    _0xfa9047("🥵🥵 " + _0x2a6579);
+  }
+});
+france({
+  'nomCom': "didong",
+  'categorie': "Logo",
+  'reaction': '📱'
+}, async (_0x4adff0, _0x254439, _0x5cbad3) => {
+  try {
+    if (!_0x181394 || _0x181394 == '') {
+      _0x248cc8("*exemple :* " + _0x16cabd + "didong Sahan");
+      return;
+    }
+    var _0xb81f80 = await mumaker.ephoto("https://ephoto360.com/tao-anh-che-vui-tu-choi-cuoc-goi-voi-ten-cua-ban-930.html", _0x181394.join(" "));
+    _0x248cc8("*processing...*");
+    await _0x254439.sendMessage(_0x4adff0, {
+      'image': {
+        'url': _0xb81f80.image
+      },
+      'caption': "\t *Logo by FLASH-MD*"
+    });
+  } catch (_0x34ad57) {
+    _0x248cc8("🥵🥵 " + _0x34ad57);
+  }
+});
+france({
+  'nomCom': "night",
+  'categorie': "Logo",
+  'reaction': '🌃'
+}, async (_0x1a2790, _0x466d8a, _0x2d7af5) => {
+  const {
+    arg: _0x92c7c5,
+    repondre: _0x326971,
+    ms: _0x14e950,
+    prefixe: _0x45583b
+  } = _0x2d7af5;
+  if (!_0x92c7c5[0x0]) {
+    _0x326971("Example of using this command:\n " + _0x45583b + "night Sahan");
+    return;
+  }
+  let _0x1cb495 = _0x92c7c5.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/stars-night-online-1-85.html", _0x1cb495).then(_0x444e7f => {
+    _0x466d8a.sendMessage(_0x1a2790, {
+      'image': {
+        'url': _0x444e7f.image
+      },
+      'caption': "Logo by *France King*"
+    }, {
+      'quoted': _0x14e950
+    });
+  })["catch"](console.log);
+});
+france({
+  'nomCom': "sunset",
+  'categorie': "Logo",
+  'reaction': '🌞'
+}, async (_0x5d9929, _0x5b75ac, _0x3cd095) => {
+  const {
+    arg: _0xca8169,
+    repondre: _0x1455ca,
+    ms: _0x2e6156,
+    prefixe: _0xd2de27
+  } = _0x3cd095;
+  if (!_0xca8169[0x0]) {
+    _0x1455ca("Example of using this command:\n " + _0xd2de27 + "sunset Sahan");
+    return;
+  }
+  const _0x1d26fb = _0xca8169.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/create-sunset-light-text-effects-online-807.html", _0x1d26fb).then(_0x3ecf64 => {
+    _0x5b75ac.sendMessage(_0x5d9929, {
+      'image': {
+        'url': _0x3ecf64.image
+      },
+      'caption': "Logo by *FLASH-MD*"
+    }, {
+      'quoted': _0x2e6156
+    });
+  })['catch'](console.error);
+});
+france({
+  'nomCom': "chocolate",
+  'categorie': 'Logo',
+  'reaction': '🍫'
+}, async (_0x104096, _0x4cd36a, _0x40a9db) => {
+  const {
+    arg: _0x52eabe,
+    repondre: _0x4a4349,
+    ms: _0x205a50,
+    prefixe: _0x2048f6
+  } = _0x40a9db;
+  if (!_0x52eabe || _0x52eabe == '') {
+    _0x4a4349("Example of using this command:\n " + _0x2048f6 + "chocolate Sahan");
+    return;
+  }
+  try {
+    let _0x387e22 = await mumaker.ephoto("https://en.ephoto360.com/chocolate-text-effect-353.html", _0x52eabe);
+    _0x4cd36a.sendMessage(_0x104096, {
+      'image': {
+        'url': _0x387e22.image
+      },
+      'caption': "Logo by *FLASH-MD*"
+    }, {
+      'quoted': _0x205a50
+    });
+  } catch (_0x1ecb12) {
+    _0x4a4349("🥵🥵 " + _0x1ecb12);
+  }
+});
+france({
+  'nomCom': "mechanical",
+  'categorie': 'Logo',
+  'reaction': '🏢'
+}, async (_0x466e14, _0x523993, _0x3bccc1) => {
+  const {
+    arg: _0x48df6b,
+    repondre: _0x500d57,
+    ms: _0x32a561,
+    prefixe: _0x56b7cb
+  } = _0x3bccc1;
+  if (!_0x48df6b[0x0]) {
+    _0x500d57("Example of using this command:\n " + _0x56b7cb + "mechanical Sahan");
+    return;
+  }
+  const _0x10b87d = _0x48df6b.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/create-your-name-in-a-mechanical-style-306.html", _0x10b87d).then(_0x414f9e => {
+    _0x523993.sendMessage(_0x466e14, {
+      'image': {
+        'url': _0x414f9e.image
+      },
+      'caption': "Logo by *France King*"
+    }, {
+      'quoted': _0x32a561
+    });
+  })["catch"](console.error);
+});
+france({
+  'nomCom': 'rain',
+  'categorie': "Logo",
+  'reaction': '☔'
+}, async (_0x22e90a, _0x9fe5d3, _0x14386c) => {
+  const {
+    arg: _0x37b54a,
+    repondre: _0x110218,
+    ms: _0x4cee7d,
+    prefixe: _0x23d7c9
+  } = _0x14386c;
+  if (!_0x37b54a[0x0]) {
+    _0x110218("Example of using this command:\n " + _0x23d7c9 + "rain Sahan");
+    return;
+  }
+  const _0xfcd1f1 = _0x37b54a.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/foggy-rainy-text-effect-75.html", _0xfcd1f1).then(_0x54a341 => {
+    _0x9fe5d3.sendMessage(_0x22e90a, {
+      'image': {
+        'url': _0x54a341.image
+      },
+      'caption': "Logo by *France King*"
+    }, {
+      'quoted': _0x4cee7d
+    });
+  })['catch'](console.error);
+});
+france({
+  'nomCom': "cloth",
+  'categorie': "Logo",
+  'reaction': '🦺'
+}, async (_0x2fc61d, _0x2994a5, _0x38277e) => {
+  const {
+    arg: _0x370284,
+    repondre: _0x15fb61,
+    ms: _0x28d6ea,
+    prefixe: _0x43e6fd
+  } = _0x38277e;
+  if (!_0x370284[0x0]) {
+    _0x15fb61("Example of using this command:\n " + _0x43e6fd + "cloth Sahan");
+    return;
+  }
+  mumaker.ephoto("https://en.ephoto360.com/text-on-cloth-effect-62.html", _0x370284).then(_0xa07682 => {
+    _0x2994a5.sendMessage(_0x2fc61d, {
+      'image': {
+        'url': _0xa07682.image
+      },
+      'caption': "Logo by *FLASH-MD*"
+    }, {
+      'quoted': _0x28d6ea
+    });
+  })['catch'](console.error);
+});
+france({
+  'nomCom': "avenger",
+  'categorie': 'Logo',
+  'reaction': '💥'
+}, async (_0x3940bc, _0x453ea6, _0x46f491) => {
+  if (!_0xc0638 || _0xc0638 == '') {
+    _0x3f898a("  Example :* " + _0x338b80 + "graffiti Sahan");
+    return;
+  }
+  try {
+    console.log(_0xc0638);
+    var _0x429ca1 = await mumaker.ephoto("https://en.ephoto360.com/create-logo-3d-style-avengers-online-427.html", _0xc0638);
+    _0x3f898a(" Processing ...");
+    await _0x453ea6.sendMessage(_0x3940bc, {
+      'image': {
+        'url': _0x429ca1.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    });
+  } catch (_0x153f18) {
+    _0x3f898a("🥵🥵 " + _0x153f18);
+  }
+});
+france({
+  'nomCom': 'water',
+  'categorie': "Logo",
+  'reaction': '💦'
+}, async (_0x59c858, _0x3c6856, _0x351799) => {
+  const {
+    arg: _0x4ad23f,
+    repondre: _0x102fb4,
+    ms: _0x3f1813,
+    prefixe: _0x13b7f4
+  } = _0x351799;
+  if (!_0x4ad23f[0x0]) {
+    _0x102fb4("Example of using this command:\n " + _0x13b7f4 + "water Sahan");
+    return;
+  }
+  let _0x438e16 = _0x4ad23f.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/create-water-effect-text-online-295.html", _0x438e16).then(_0x42ebe4 => {
+    _0x3c6856.sendMessage(_0x59c858, {
+      'image': {
+        'url': _0x42ebe4.image
+      },
+      'caption': "Logo by *France King*"
+    }, {
+      'quoted': _0x3f1813
+    });
+  })["catch"](console.log);
+});
+france({
+  'nomCom': '1917',
+  'categorie': "Logo",
+  'reaction': '😤'
+}, async (_0x5679b2, _0x2aa812, _0xf735c8) => {
+  const {
+    arg: _0x2b69cf,
+    ms: _0xcc6503,
+    prefixe: _0x1bc1d3,
+    repondre: _0x3e8d85
+  } = _0xf735c8;
+  if (!_0x2b69cf[0x0]) {
+    _0x3e8d85("Example of using this command:\n " + _0x1bc1d3 + "hub Sahan");
+    return;
+  }
+  const _0x5cb3fe = _0x2b69cf.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/1917-style-text-effect-523.html", _0x5cb3fe).then(_0x2c6b02 => {
+    _0x2aa812.sendMessage(_0x5679b2, {
+      'image': {
+        'url': _0x2c6b02.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0xcc6503
+    });
+  })['catch'](_0x274c3e => {
+    console.error("An error occurred :", _0x274c3e);
+  });
+});
+france({
+  'nomCom': "graffiti",
+  'categorie': "Logo",
+  'reaction': '💥'
+}, async (_0x290373, _0x1c2264, _0x42485e) => {
+  const {
+    prefixe: _0x259b00,
+    arg: _0x371bfa,
+    ms: _0x3b025e,
+    repondre: _0x3d33da
+  } = _0x42485e;
+  if (!_0x371bfa || _0x371bfa == '') {
+    _0x3d33da("*__Example : * " + _0x259b00 + "grafittis Sahan");
+    return;
+  }
+  try {
+    let _0x15648f = await mumaker.ephoto("https://en.ephoto360.com/create-a-cartoon-style-graffiti-text-effect-online-668.html", _0x371bfa);
+    _0x3d33da("*FLASH-MD is processing your request...*");
+    await _0x1c2264.sendMessage(_0x290373, {
+      'image': {
+        'url': _0x15648f.image
+      },
+      'caption': "\t *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x3b025e
+    });
+  } catch (_0x4fe94d) {
+    _0x3d33da("🥵🥵 " + _0x4fe94d);
+  }
+});
+france({
+  'nomCom': "thunder",
+  'categorie': "Logo",
+  'reaction': '⚡'
+}, async (_0xab65b, _0xe2d9d0, _0x30304f) => {
+  const {
+    arg: _0x1eeace,
+    ms: _0x237ae5,
+    prefixe: _0x1f7a53,
+    repondre: _0x846d63
+  } = _0x30304f;
+  if (!_0x1eeace[0x0]) {
+    _0x846d63("Exemple of using commande:\n " + _0x1f7a53 + "Thunder Sahan");
+    return;
+  }
+  const _0x3467d3 = _0x1eeace.join(" ");
+  mumaker.textpro("https://textpro.me/online-thunder-text-effect-generator-1031.html", _0x3467d3).then(_0x2d704d => {
+    _0xe2d9d0.sendMessage(_0xab65b, {
+      'image': {
+        'url': _0x2d704d.image
+      },
+      'caption': "Logo by *FLASH-MD*"
+    }, {
+      'quoted': _0x237ae5
+    });
+  })["catch"](_0x5d3bf5 => {
+    console.error("Une erreur s'est produite :", _0x5d3bf5);
+  });
+});
+france({
+  'nomCom': "boom",
+  'categorie': "Logo",
+  'reaction': '💥'
+}, async (_0x1cf888, _0x200d31, _0xd6ac39) => {
+  const {
+    arg: _0x3cb342,
+    ms: _0x4984b4,
+    prefixe: _0x417bff,
+    repondre: _0x729cd7
+  } = _0xd6ac39;
+  if (!_0x3cb342[0x0]) {
+    _0x729cd7("Example of using this command:\n " + _0x417bff + "boom Sahan");
+    return;
+  }
+  const _0x273c85 = _0x3cb342.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/boom-text-comic-style-text-effect-675.html", _0x273c85).then(_0x5af3b6 => {
+    _0x200d31.sendMessage(_0x1cf888, {
+      'image': {
+        'url': _0x5af3b6.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x4984b4
+    });
+  })['catch'](_0x4ef038 => {
+    console.error("Une erreur s'est produite :", _0x4ef038);
+  });
+});
+france({
+  'nomCom': 'cat',
+  'categorie': "Logo",
+  'reaction': '🪟'
+}, async (_0x4a08d6, _0x2276e4, _0xd8f2a4) => {
+  const {
+    arg: _0x34e58e,
+    ms: _0x218fe5,
+    prefixe: _0x4cd42e
+  } = _0xd8f2a4;
+  if (!_0x34e58e[0x0]) {
+    repondre("Example of using this command:\n " + _0x4cd42e + "cat Sahan");
+    return;
+  }
+  const _0x3d89bc = _0x34e58e.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/handwritten-text-on-foggy-glass-online-680.html", _0x3d89bc).then(_0x2e22be => {
+    _0x2276e4.sendMessage(_0x4a08d6, {
+      'image': {
+        'url': _0x2e22be.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x218fe5
+    });
+  })['catch'](_0x55d074 => {
+    console.error("Une erreur s'est produite :", _0x55d074);
+  });
+});
+france({
+  'nomCom': "whitegold",
+  'categorie': "Logo",
+  'reaction': '💫'
+}, async (_0x44976a, _0x1362fd, _0x389ad7) => {
+  const {
+    arg: _0x5d2ae5,
+    ms: _0x50a47b,
+    prefixe: _0x187a1d,
+    repondre: _0x47a61d
+  } = _0x389ad7;
+  if (!_0x5d2ae5[0x0]) {
+    _0x47a61d("Exemple of using commande:\n " + _0x187a1d + "WhiteGold Sahan");
+    return;
+  }
+  const _0x38e515 = _0x5d2ae5.join(" ");
+  mumaker.textpro("https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html", _0x38e515).then(_0x4f00bf => {
+    _0x1362fd.sendMessage(_0x44976a, {
+      'image': {
+        'url': _0x4f00bf.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x50a47b
+    });
+  })["catch"](_0x202db3 => {
+    console.error("Une erreur s'est produite :", _0x202db3);
+  });
+});
+france({
+  'nomCom': 'lightglow',
+  'categorie': "Logo",
+  'reaction': '🌟'
+}, async (_0x43e95f, _0x19e5d3, _0x5a0eba) => {
+  const {
+    arg: _0x3ad2fe,
+    ms: _0x1d3c7f,
+    prefixe: _0x3e2de9,
+    repondre: _0x135a8b
+  } = _0x5a0eba;
+  if (!_0x3ad2fe[0x0]) {
+    _0x135a8b("Exemple of using commande:\n " + _0x3e2de9 + "LightGlow Sahan");
+    return;
+  }
+  const _0x2790d9 = _0x3ad2fe.join(" ");
+  mumaker.textpro("https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html", _0x2790d9).then(_0x57fe3c => {
+    _0x19e5d3.sendMessage(_0x43e95f, {
+      'image': {
+        'url': _0x57fe3c.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x1d3c7f
+    });
+  })['catch'](_0x1c2b2b => {
+    console.error("Une erreur s'est produite :", _0x1c2b2b);
+  });
+});
+france({
+  'nomCom': "thor",
+  'categorie': 'Logo',
+  'reaction': '🔨'
+}, async (_0x23ae69, _0x595c10, _0xd40f5f) => {
+  const {
+    arg: _0x28a839,
+    ms: _0x209955,
+    prefixe: _0x55e571,
+    repondre: _0x126b14
+  } = _0xd40f5f;
+  if (!_0x28a839[0x0]) {
+    _0x126b14("Exemple of using commande:\n " + _0x55e571 + "Thor Sahan");
+    return;
+  }
+  const _0xfbbc25 = _0x28a839.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/create-thor-style-text-effects-online-for-free-796.html", _0xfbbc25).then(_0x590a3e => {
+    _0x595c10.sendMessage(_0x23ae69, {
+      'image': {
+        'url': _0x590a3e.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x209955
+    });
+  })["catch"](_0x555316 => {
+    console.error("Une erreur s'est produite :", _0x555316);
+  });
+});
+france({
+  'nomCom': "neon",
+  'categorie': 'Logo',
+  'reaction': '💡'
+}, async (_0x32e9ad, _0x304a98, _0x53f015) => {
+  const {
+    arg: _0x5e7c77,
+    ms: _0x30dec4,
+    prefixe: _0x3cf885,
+    repondre: _0x591a35
+  } = _0x53f015;
+  if (!_0x5e7c77[0x0]) {
+    _0x591a35("Exemple of using commande:\n " + _0x3cf885 + "Neon Sahan");
+    return;
+  }
+  const _0x335505 = _0x5e7c77.join(" ");
+  mumaker.textpro("https://textpro.me/neon-text-effect-online-879.html", _0x335505).then(_0x15dbc7 => {
+    _0x304a98.sendMessage(_0x32e9ad, {
+      'image': {
+        'url': _0x15dbc7.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x30dec4
+    });
+  })['catch'](_0x372832 => {
+    console.error("Une erreur s'est produite :", _0x372832);
+  });
+});
+france({
+  'nomCom': "purple",
+  'categorie': "Logo",
+  'reaction': '🧳'
+}, async (_0x3177fc, _0x140ef3, _0x10029a) => {
+  try {
+    if (!_0x24f439 || _0x24f439 == '') {
+      _0x249bc6(_0x2691de + "purple Flash");
+      return;
+    }
+    var _0x2ab660 = await mumaker.ephoto("https://en.ephoto360.com/purple-text-effect-online-100.html", _0x24f439);
+    _0x249bc6(" processing ...");
+    await _0x140ef3.sendMessage(_0x3177fc, {
+      'image': {
+        'url': _0x2ab660.image
+      },
+      'caption': "*Logo by FLASH-MD*"
+    });
+  } catch (_0x595415) {
+    _0x249bc6(_0x595415);
+  }
+});
+france({
+  'nomCom': "gold",
+  'categorie': "Logo",
+  'reaction': "🧚🏿‍♀️"
+}, async (_0x2eada4, _0x5be5c7, _0x19ad27) => {
+  let {
+    ms: _0x38f46e,
+    arg: _0x30cdf3,
+    prefixe: _0x18e2a1,
+    repondre: _0x337c3e
+  } = _0x19ad27;
+  try {
+    if (!_0x30cdf3 || _0x30cdf3 == '') {
+      _0x337c3e(_0x18e2a1 + "gold Sahan");
+      return;
+    }
+    var _0x19ea52 = await mumaker.ephoto("https://en.ephoto360.com/modern-gold-4-213.html", _0x30cdf3);
+    _0x337c3e("processing ...");
+    await _0x5be5c7.sendMessage(_0x2eada4, {
+      'image': {
+        'url': _0x19ea52.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x38f46e
+    });
+  } catch (_0xf1b845) {
+    _0x337c3e(_0xf1b845);
+  }
+});
+france({
+  'nomCom': "arena",
+  'categorie': 'Logo',
+  'reaction': '🥵'
+}, async (_0x481d77, _0x2fee7d, _0x434eef) => {
+  let {
+    ms: _0x3b5c34,
+    arg: _0x2b43b9,
+    prefixe: _0x179d90,
+    repondre: _0x5a5cdc
+  } = _0x434eef;
+  try {
+    if (!_0x2b43b9 || _0x2b43b9 == '') {
+      _0x5a5cdc(_0x179d90 + "arena Sahan");
+      return;
+    }
+    var _0x52cc72 = await mumaker.ephoto("https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html", _0x2b43b9.join(" "));
+    _0x5a5cdc("processing ...");
+    await _0x2fee7d.sendMessage(_0x481d77, {
+      'image': {
+        'url': _0x52cc72.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x3b5c34
+    });
+  } catch (_0x3195ea) {
+    _0x5a5cdc(_0x3195ea);
+  }
+});
+france({
+  'nomCom': "incandescent",
+  'categorie': "Logo",
+  'reaction': '😋'
+}, async (_0x2fc434, _0x4f6eb0, _0x429d9c) => {
+  let {
+    ms: _0x9e50b5,
+    arg: _0x5cfe84,
+    prefixe: _0x459e2b,
+    repondre: _0x3855b1
+  } = _0x429d9c;
+  try {
+    if (!_0x5cfe84 || _0x5cfe84 == '') {
+      _0x3855b1(_0x459e2b + "incandescent Sahan");
+      return;
+    }
+    var _0x196bbb = await mumaker.ephoto("https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html", _0x5cfe84.join(" "));
+    _0x3855b1("processing ...");
+    await _0x4f6eb0.sendMessage(_0x2fc434, {
+      'image': {
+        'url': _0x196bbb.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x9e50b5
+    });
+  } catch (_0x3d34ba) {
+    _0x3855b1(_0x3d34ba);
+  }
+});
+france({
+  'nomCom': 'child',
+  'categorie': 'Logo',
+  'reaction': '😇'
+}, async (_0x2350c7, _0x42ce83, _0x37a42c) => {
+  let {
+    ms: _0x3c9711,
+    arg: _0x1fbd63,
+    prefixe: _0x2c3f4c,
+    repondre: _0x401a78
+  } = _0x37a42c;
+  try {
+    if (!_0x1fbd63 || _0x1fbd63 == '') {
+      _0x401a78(_0x2c3f4c + "child Sahan");
+      return;
+    }
+    var _0x1455e8 = await mumaker.ephoto("https://en.ephoto360.com/write-text-on-wet-glass-online-589.html", _0x1fbd63.join(" "));
+    _0x401a78("processing ...");
+    await _0x42ce83.sendMessage(_0x2350c7, {
+      'image': {
+        'url': _0x1455e8.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x3c9711
+    });
+  } catch (_0x2bf75b) {
+    _0x401a78(_0x2bf75b);
+  }
+});
+france({
+  'nomCom': 'typo',
+  'categorie': "Logo",
+  'reaction': '😇'
+}, async (_0x2ceb7a, _0x2c5397, _0x507266) => {
+  let {
+    ms: _0x10ac3a,
+    arg: _0x72b58c,
+    prefixe: _0x3db091,
+    repondre: _0x2a6ebf
+  } = _0x507266;
+  try {
+    if (!_0x72b58c || _0x72b58c == '') {
+      _0x2a6ebf(_0x3db091 + "typo Sahan");
+      return;
+    }
+    var _0x37cd5e = await mumaker.ephoto("https://en.ephoto360.com/typography-text-effect-on-pavement-online-774.html", _0x72b58c.join(" "));
+    _0x2a6ebf("processing ...");
+    await _0x2c5397.sendMessage(_0x2ceb7a, {
+      'image': {
+        'url': _0x37cd5e.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x10ac3a
+    });
+  } catch (_0x508940) {
+    _0x2a6ebf(_0x508940);
+  }
+});
+france({
+  'nomCom': 'light',
+  'categorie': "Logo",
+  'reaction': '🌠'
+}, async (_0x2c15e1, _0x2f604a, _0x16dea1) => {
+  let {
+    ms: _0x17deef,
+    arg: _0x454e01,
+    prefixe: _0x37970b,
+    repondre: _0x21b9a7
+  } = _0x16dea1;
+  try {
+    if (!_0x454e01 || _0x454e01 == '') {
+      _0x21b9a7(_0x37970b + "light Sahan");
+      return;
+    }
+    var _0x62464b = await mumaker.ephoto("https://en.ephoto360.com/light-text-effect-futuristic-technology-style-648.html", _0x454e01.join(" "));
+    _0x21b9a7("processing ...");
+    await _0x2f604a.sendMessage(_0x2c15e1, {
+      'image': {
+        'url': _0x62464b.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x17deef
+    });
+  } catch (_0xace3cd) {
+    _0x21b9a7(_0xace3cd);
+  }
+});
+france({
+  'nomCom': "steel",
+  'categorie': "Logo",
+  'reaction': '🌠'
+}, async (_0x3bcc6c, _0x113f60, _0x33289c) => {
+  let {
+    ms: _0x539b08,
+    arg: _0x4120b9,
+    prefixe: _0x3198d3,
+    repondre: _0x5344d6
+  } = _0x33289c;
+  try {
+    if (!_0x4120b9 || _0x4120b9 == '') {
+      _0x5344d6(_0x3198d3 + "steel Sahan");
+      return;
+    }
+    var _0x42de6a = await mumaker.ephoto("https://en.ephoto360.com/dragon-steel-text-effect-online-347.html", _0x4120b9.join(" "));
+    _0x5344d6("processing ...");
+    await _0x113f60.sendMessage(_0x3bcc6c, {
+      'image': {
+        'url': _0x42de6a.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x539b08
+    });
+  } catch (_0x117a91) {
+    _0x5344d6(_0x117a91);
+  }
+});
+france({
+  'nomCom': "sunlight",
+  'categorie': "Logo",
+  'reaction': '🌠'
+}, async (_0x4042aa, _0xe37796, _0x7b81d1) => {
+  let {
+    ms: _0x187ca0,
+    arg: _0x37a95d,
+    prefixe: _0x62fb5e,
+    repondre: _0x46eaaf
+  } = _0x7b81d1;
+  try {
+    if (!_0x37a95d || _0x37a95d == '') {
+      _0x46eaaf(_0x62fb5e + "sunlight Sahan");
+      return;
+    }
+    var _0x22d144 = await mumaker.ephoto("https://en.ephoto360.com/sunlight-shadow-text-204.html", _0x37a95d.join(" "));
+    _0x46eaaf("processing ...");
+    await _0xe37796.sendMessage(_0x4042aa, {
+      'image': {
+        'url': _0x22d144.image
+      },
+      'caption': " *Logo by FLASH-MD*"
+    }, {
+      'quoted': _0x187ca0
+    });
+  } catch (_0x1767c7) {
+    _0x46eaaf(_0x1767c7);
+  }
+});
+france({
+  'nomCom': "frozen",
+  'categorie': "Logo",
+  'reaction': '❄'
+}, async (_0x1e034d, _0x2c1578, _0x17e783) => {
+  const {
+    arg: _0x2bd4e9,
+    ms: _0x4d6c39,
+    prefixe: _0x599663,
+    repondre: _0x549781
+  } = _0x17e783;
+  if (!_0x2bd4e9[0x0]) {
+    _0x549781("Example of using this command:\n " + _0x599663 + "Sahan");
+    return;
+  }
+  const _0x51c1c8 = _0x2bd4e9.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/create-a-frozen-christmas-text-effect-online-792.html", _0x51c1c8).then(_0x3c7022 => {
+    _0x2c1578.sendMessage(_0x1e034d, {
+      'image': {
+        'url': _0x3c7022.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x4d6c39
+    });
+  })["catch"](_0x2b527b => {
+    console.error("Une erreur s'est produite :", _0x2b527b);
+  });
+});
+france({
+  'nomCom': "magma",
+  'categorie': "Logo",
+  'reaction': '♨️'
+}, async (_0x1c1328, _0x5c66fa, _0x4ae582) => {
+  const {
+    arg: _0x528c07,
+    ms: _0x3a3eb9,
+    prefixe: _0x2b8798,
+    repondre: _0x100ccf
+  } = _0x4ae582;
+  if (!_0x528c07[0x0]) {
+    _0x100ccf("Example of using command:\n " + _0x2b8798 + "magma Sahan");
+    return;
+  }
+  const _0x2dca5f = _0x528c07.join(" ");
+  mumaker.textpro("https://textpro.me/create-a-magma-hot-text-effect-online-1030.html", _0x2dca5f).then(_0x9b9903 => {
+    _0x5c66fa.sendMessage(_0x1c1328, {
+      'image': {
+        'url': _0x9b9903.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x3a3eb9
+    });
+  })["catch"](_0x300715 => {
+    console.error("Une erreur s'est produite :", _0x300715);
+  });
+});
+france({
+  'nomCom': "leaves",
+  'categorie': 'Logo',
+  'reaction': '☘️'
+}, async (_0x43f230, _0x37c671, _0xb896bb) => {
+  const {
+    arg: _0x5de062,
+    ms: _0x2ebdae,
+    prefixe: _0x32f384,
+    repondre: _0x5c693e
+  } = _0xb896bb;
+  if (!_0x5de062[0x0]) {
+    _0x5c693e("Example of using command:\n " + _0x32f384 + "leaves Sahan");
+    return;
+  }
+  const _0x452304 = _0x5de062.join(" ");
+  mumaker.ephoto("https://en.ephoto360.com/green-brush-text-effect-typography-maker-online-153.html", _0x452304).then(_0x9e01b9 => {
+    _0x37c671.sendMessage(_0x43f230, {
+      'image': {
+        'url': _0x9e01b9.image
+      },
+      'caption': "Logo BY *FLASH-MD*"
+    }, {
+      'quoted': _0x2ebdae
+    });
+  })["catch"](_0x250a35 => {
+    console.error("Une erreur s'est produite :", _0x250a35);
+  });
+});

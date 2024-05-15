@@ -70,7 +70,7 @@
           ,
     "SESSION_ID":
     {
-      "description":"put your session ID, AMKE SURE IT STARTS WITH FLASH-MD-WA-BOT;;;=>",   
+      "description":"put your session ID, AMKE SURE IT STARTS WITH MASTER-MD;;;=>",   
       "value":"",
       "required": true
 
@@ -85,7 +85,7 @@
     "OWNER_NUMBER":
   {
 
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of togo '94')",
     "required":false,
     "value": "94720797915"
   },

@@ -50,7 +50,7 @@ france(
       
     
      
-    moment.tz.setDefault('Africa/Nairobi');
+    moment.tz.setDefault('Asia/colombo');
 
 // Créer une date et une heure en EAT
 const temps = moment().format('HH:mm:ss');
@@ -65,7 +65,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *FLASH-MD by France King is alive*`
+ *MASTER-MD by Sahan Maduwantha is alive*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {

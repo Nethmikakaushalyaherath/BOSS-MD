@@ -42,7 +42,7 @@ france({
           'video': {
             'url': _0x14c3a7.url
           },
-          'caption': "Here is your Instagram Video.\n _Downloaded by_ *FLASH-MD*",
+          'caption': "Here is your Instagram Video.\n _Downloaded by_ *MASTER-MD*",
           'gifPlayback': false
         }, {
           'quoted': _0x186c2f
@@ -52,7 +52,7 @@ france({
           'image': {
             'url': _0x14c3a7.url
           },
-          'caption': "Here is your Instagram Image!\n _Downloaded by_ *FLASH-MD*"
+          'caption': "Here is your Instagram Image!\n _Downloaded by_ *MASTER-MD*"
         });
       }
     } else {
@@ -73,7 +73,7 @@ france({
   } = _0x715501;
   let _0x775e9d = _0x391c82.join(" ");
   if (!_0x391c82[0x0]) {
-    _0x1c600f("Please insert a *TWITTER Video Link* for *FLASH-MD* to download ");
+    _0x1c600f("Please insert a *TWITTER Video Link* for *MASTER-MD* to download ");
     return;
   }
   try {
@@ -85,7 +85,7 @@ france({
         'video': {
           'url': _0x2eb2e5
         },
-        'caption': "Here is your Twitter Video.\n _Downloaded by_ *FLASH-MD*",
+        'caption': "Here is your Twitter Video.\n _Downloaded by_ *MASTER-MD*",
         'gifPlayback': false
       }, {
         'quoted': _0x217842
@@ -119,7 +119,7 @@ france({
         'video': {
           'url': _0x170522
         },
-        'caption': "Here is your Tiktok Video.\n _Downloaded by_ *FLASH-MD*",
+        'caption': "Here is your Tiktok Video.\n _Downloaded by_ *MASTER-MD*",
         'gifPlayback': false
       }, {
         'quoted': _0xf766be
@@ -193,7 +193,7 @@ france({
         'video': {
           'url': _0x34516a.hd
         },
-        'caption': "facebook video downloader\n powered by *FLASH-MD*"
+        'caption': "facebook video downloader\n powered by *MASTER-MD*"
       }, {
         'quoted': _0x5d788e
       });
@@ -236,7 +236,7 @@ france({
         'video': {
           'url': _0x1c5e02.sd
         },
-        'caption': "facebook video downloader powered by *FLASH-MD*"
+        'caption': "facebook video downloader powered by *MASTER-MD*"
       }, {
         'quoted': _0x338af7
       });

@@ -42,7 +42,7 @@ france({
           'video': {
             'url': _0x14c3a7.url
           },
-          'caption': "Here is your Instagram Video.\n _Downloaded by_ *MASTER-MD*",
+          'caption': "Here is your Instagram Video.\n*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*",
           'gifPlayback': false
         }, {
           'quoted': _0x186c2f
@@ -52,7 +52,7 @@ france({
           'image': {
             'url': _0x14c3a7.url
           },
-          'caption': "Here is your Instagram Image!\n _Downloaded by_ *MASTER-MD*"
+          'caption': "Here is your Instagram Image!\n*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*"
         });
       }
     } else {
@@ -85,7 +85,7 @@ france({
         'video': {
           'url': _0x2eb2e5
         },
-        'caption': "Here is your Twitter Video.\n _Downloaded by_ *MASTER-MD*",
+        'caption': "Here is your Twitter Video.\n*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*",
         'gifPlayback': false
       }, {
         'quoted': _0x217842
@@ -119,7 +119,7 @@ france({
         'video': {
           'url': _0x170522
         },
-        'caption': "Here is your Tiktok Video.\n _Downloaded by_ *MASTER-MD*",
+        'caption': "Here is your Tiktok Video.\n*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*",
         'gifPlayback': false
       }, {
         'quoted': _0xf766be
@@ -193,7 +193,7 @@ france({
         'video': {
           'url': _0x34516a.hd
         },
-        'caption': "facebook video downloader\n powered by *MASTER-MD*"
+        'caption': "facebook video downloader\n*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*"
       }, {
         'quoted': _0x5d788e
       });
@@ -202,7 +202,7 @@ france({
       _0x2ff6f1("try fbdl2 on this link");
     });
   } catch (_0xfb5e9f) {
-    console.error("An error occurred while *FLASH-MD* was downloading your media:", _0xfb5e9f);
+    console.error("An error occurred while *MASTER-MD* was downloading your media:", _0xfb5e9f);
     _0x2ff6f1("An error occurred while downloading your media.", _0xfb5e9f);
   }
 });
@@ -245,7 +245,7 @@ france({
       _0x559883(_0x394bb5);
     });
   } catch (_0x2d2707) {
-    console.error("An error occurred while Flash-Md was downloading your media:", _0x2d2707);
-    _0x559883("An error occurred while Flash-Md was downloading your media.", _0x2d2707);
+    console.error("An error occurred while MASTER-MD was downloading your media:", _0x2d2707);
+    _0x559883("An error occurred while MASTER-MD was downloading your media.", _0x2d2707);
   }
 });

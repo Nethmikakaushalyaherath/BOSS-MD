@@ -15,9 +15,9 @@ const {
   france
 } = require("../framework/france");
 france({
-  'nomCom': "flash",
+  'nomCom': "master",
   'reaction': '📡',
-  'categorie': 'IA'
+  'categorie': 'AI'
 }, async (_0x4c29c0, _0x4e7f01, _0x5e6ef0) => {
   if (!_0x7cf9e3 || !_0x7cf9e3[0x0]) {
     return _0x5aa4bf("YEES!\n _I'm listening to you._");
@@ -34,7 +34,7 @@ france({
 france({
   'nomCom': "dalle",
   'reaction': '📡',
-  'categorie': 'IA'
+  'categorie': 'AI'
 }, async (_0x29145a, _0x406bfc, _0x56783b) => {
   const {
     repondre: _0x16f4a4,
@@ -51,7 +51,7 @@ france({
       'image': {
         'url': _0x145045
       },
-      'caption': "*powered by FLASH-MD*"
+      'caption': "*powered by MASTER-MD*"
     }, {
       'quoted': _0x37c9b9
     });
@@ -63,7 +63,7 @@ france({
 france({
   'nomCom': "gpt",
   'reaction': '📡',
-  'categorie': 'IA'
+  'categorie': 'AI'
 }, async (_0x49efd5, _0x137878, _0x318485) => {
   if (!_0x537bc1 || _0x537bc1.length === 0x0) {
     return _0x2bd878("Please ask a question.");
@@ -75,12 +75,12 @@ france({
   console.log(_0x53e4ae.completion);
 });
 france({
-  'nomCom': "gemini",
+  'nomCom': "chatgpt",
   'reaction': '🤗',
-  'categorie': 'IA'
+  'categorie': 'AI'
 }, async (_0x1c753b, _0x55355f, _0x5d8964) => {
   if (!_0x424bf0 || _0x424bf0.length === 0x0) {
-    return _0x24f9f4("Hello am *FLASH-MD.* an Ai developed by France King.\n\n What help can I offer you today?.");
+    return _0x24f9f4("Hello am *MASTER-MD.* an Ai developed by Sahan Maduwantha.\n\n What help can I offer you today?.");
   }
   const _0x8e5e01 = _0x424bf0.join(" ");
   const _0xcdca18 = await fetch("https://api.maher-zubair.tech/ai/chatgpt3?q=" + _0x8e5e01);

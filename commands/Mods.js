@@ -275,7 +275,7 @@ france({
       });
       const _0x52fcd2 = new Sticker(_0xc006cb.data, {
         'pack': _0x200986,
-        'author': 'FLASH-MD',
+        'author': 'MASTER-MD',
         'type': StickerTypes.FULL,
         'categories': ['🤩', '🎉'],
         'id': "12345",
@@ -760,7 +760,7 @@ france({
             if (_0x77fadc.stickerMessage) {
               let _0x1931a1 = await _0x1cf6d3.downloadAndSaveMediaMessage(_0x77fadc.stickerMessage);
               let _0x1ed823 = new Sticker(_0x1931a1, {
-                'pack': "FLASH-MD",
+                'pack': "MASTER-MD",
                 'type': StickerTypes.CROPPED,
                 'categories': ['🤩', '🎉'],
                 'id': '12345',

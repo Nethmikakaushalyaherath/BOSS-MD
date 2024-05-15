@@ -65,7 +65,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *MASTER-MD by Sahan Maduwantha is alive*`
+*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {

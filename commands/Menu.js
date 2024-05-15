@@ -46,11 +46,11 @@ france({
     }
     _0x3085ff[_0x37d146.categorie].push(_0x37d146.nomCom);
   });
-  moment.tz.setDefault("Africa/Nairobi");
+  moment.tz.setDefault("Asia/colombo");
   const _0x3f94de = moment().format("HH:mm:ss");
   const _0x3ad85b = moment().format("DD/MM/YYYY");
-  let _0x466c1b = "\n╭────✧MASTER-MD✧────◆\n┃❃╭──────────────\n┃❃│ Prefix : " + s.PREFIXE + " \n┃❃│ User :  " + s.OWNER_NAME + "\n┃❃│ Time : " + _0x3f94de + "  \n┃❃│ Platform : Linux\n┃❃│ Date : " + _0x3ad85b + " \n┃❃│ Mode : " + _0xbafdb7 + "\n┃❃│ Commands : " + _0x579468.length + "  \n┃❃│ Ram : " + format(os.totalmem() - os.freemem()) + '/' + format(os.totalmem()) + " \n┃❃│ Uptime : " + runtime(process.uptime()) + " \n┃❃╰───────────────\n╰─────✧The-GOAT✧─────◆ \n";
-  let _0x3c7fea = "  \n\n*◇ FLASH-MD COMMANDS ◇*\n";
+  let _0x466c1b = "\n╭────✧ＭＡＳＴＥＲ-ＭＤ✧────◆\n┃🥷🏻╭──────────────\n┃🥷🏻│ Prefix : " + s.PREFIXE + " \n┃🥷🏻│ User :  " + s.OWNER_NAME + "\n┃🥷🏻│ Time : " + _0x3f94de + "  \n┃🥷🏻│ Platform : Linux\n┃🥷🏻│ Date : " + _0x3ad85b + " \n┃🥷🏻│ Mode : " + _0xbafdb7 + "\n┃🥷🏻│ Commands : " + _0x579468.length + "  \n┃🥷🏻│ Ram : " + format(os.totalmem() - os.freemem()) + '/' + format(os.totalmem()) + " \n┃🥷🏻│ Uptime : " + runtime(process.uptime()) + " \n┃🥷🏻╰───────────────\n╰─────✧POWER OF MASTER MIND✧─────◆ \n";
+  let _0x3c7fea = "  \n\n*◇ MASTER-MD COMMANDS ◇*\n";
   for (const _0xafd2d0 in _0x3085ff) {
     _0x3c7fea += "\n*╭────☉⁠👨‍💻⁠⁠" + _0xafd2d0 + "👨‍💻⁠⊷*";
     for (const _0x1430ff of _0x3085ff[_0xafd2d0]) {
@@ -58,7 +58,7 @@ france({
     }
     _0x3c7fea += "\n*╰═════════════⊷*\n";
   }
-  _0x3c7fea += "\n◇ *THE MASTER MULTI DEVICE* ◇\n\n   *Released: 03.5.2024*\n   \n _Thanks For choosing MASTER-MD_\n\n  Created by *Sahan Maduwantha ©²0²⁴* \n  \n     *KEEP USING MASTER-MD*\n";
+  _0x3c7fea += "\n◇ *ᴛʜᴇ ᴍᴀꜱᴛᴇʀ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ* ◇\n\n   *ʀᴇʟᴇᴀꜱᴇᴅ: 03.5.2024*\n   \n ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴄʜᴏᴏꜱɪɴɢ ᴍᴀꜱᴛᴇʀ-ᴍᴅ\n\nᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀʜᴀɴ ᴍᴀᴅᴜᴡᴀɴᴛʜᴀ\n  \n     *ᴋᴇᴇᴘ ᴜꜱɪɴɢ ᴍᴀꜱᴛᴇʀ-ᴍᴅ*\n";
   var _0x2af193 = _0x85aec2();
   if (_0x2af193.match(/\.(mp4|gif)$/i)) {
     try {
@@ -67,7 +67,7 @@ france({
           'url': _0x2af193
         },
         'caption': _0x466c1b + _0x3c7fea,
-        'footer': "Je suis *Zokou-MD*, développé par Djalega++",
+        'footer': "Je suis *MASTER-MD*, développé par Djalega++",
         'gifPlayback': true
       }, {
         'quoted': _0x1dbe0a

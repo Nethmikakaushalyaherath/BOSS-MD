@@ -49,8 +49,8 @@ france({
   moment.tz.setDefault("Asia/colombo");
   const _0x3f94de = moment().format("HH:mm:ss");
   const _0x3ad85b = moment().format("DD/MM/YYYY");
-  let _0x466c1b = "\n╭────✧ＭＡＳＴＥＲ-ＭＤ✧────◆\n┃🥷🏻╭──────────────\n┃🥷🏻│ Prefix : " + s.PREFIXE + " \n┃🥷🏻│ User :  " + s.OWNER_NAME + "\n┃🥷🏻│ Time : " + _0x3f94de + "  \n┃🥷🏻│ Platform : Linux\n┃🥷🏻│ Date : " + _0x3ad85b + " \n┃🥷🏻│ Mode : " + _0xbafdb7 + "\n┃🥷🏻│ Commands : " + _0x579468.length + "  \n┃🥷🏻│ Ram : " + format(os.totalmem() - os.freemem()) + '/' + format(os.totalmem()) + " \n┃🥷🏻│ Uptime : " + runtime(process.uptime()) + " \n┃🥷🏻╰───────────────\n╰─────✧POWER OF MASTER MIND✧─────◆ \n";
-  let _0x3c7fea = "  \n\n*◇ MASTER-MD COMMANDS ◇*\n";
+  let _0x466c1b = "\n╭────✧ＢＯＳＳ-ＭＤ✧────◆\n┃🥷🏻╭──────────────\n┃🥷🏻│ Prefix : " + s.PREFIXE + " \n┃🥷🏻│ User :  " + s.OWNER_NAME + "\n┃🥷🏻│ Time : " + _0x3f94de + "  \n┃🥷🏻│ Platform : Linux\n┃🥷🏻│ Date : " + _0x3ad85b + " \n┃🥷🏻│ Mode : " + _0xbafdb7 + "\n┃🥷🏻│ Commands : " + _0x579468.length + "  \n┃🥷🏻│ Ram : " + format(os.totalmem() - os.freemem()) + '/' + format(os.totalmem()) + " \n┃🥷🏻│ Uptime : " + runtime(process.uptime()) + " \n┃🥷🏻╰───────────────\n╰─────✧POWER OF MASTER MIND✧─────◆ \n";
+  let _0x3c7fea = "  \n\n*◇ BOSS-MD COMMANDS ◇*\n";
   for (const _0xafd2d0 in _0x3085ff) {
     _0x3c7fea += "\n*╭────☉⁠👨‍💻⁠⁠" + _0xafd2d0 + "👨‍💻⁠⊷*";
     for (const _0x1430ff of _0x3085ff[_0xafd2d0]) {
@@ -84,7 +84,7 @@ france({
             'url': _0x2af193
           },
           'caption': _0x466c1b + _0x3c7fea,
-          'footer': "*📌Sahan Maduwantha*"
+          'footer': "*📌Nethmika*"
         }, {
           'quoted': _0x1dbe0a
         });

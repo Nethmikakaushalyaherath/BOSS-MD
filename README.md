@@ -1,7 +1,7 @@
-```MASTER-MD WHATSAPP USER BOT CREATED BY MR SAHAN OFC 💀🔥```
+```BOSS-MD WHATSAPP USER BOT CREATED BY MR NETHMIKA OFC 💀🔥```
 
 <div align="center">
-    ✨<b>💀🥷MASTER-MD USER BOT🥷💀</b>✨</b> 
+    ✨<b>💀🥷BOSS-MD USER BOT🥷💀</b>✨</b> 
 
 
 <div align="left">

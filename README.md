@@ -15,9 +15,9 @@
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
-`MASTER-MD` whatsapp bot is,
+`BOSS-MD` whatsapp bot is,
 
-      MASTER-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  MASTER-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
+      BOSS-MD බොට් යනු මාගෙ ප්‍රථම WhatsApp Bot ය.   |  BOSS-MD බොට් යනු ඔබට පහසුවෙන් භාවිත කල හැකි බොට් වරයෙකි.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,10 +63,6 @@
 
 `Thanks To,`
 
-1: `Kanishka Brother`
-
-2: `Hemal Brother`
-
-3: `Kavi Brother`
+1: `Mr Shan Brother`
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***

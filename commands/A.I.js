@@ -15,7 +15,7 @@ const {
   france
 } = require("../framework/france");
 france({
-  'nomCom': "master",
+  'nomCom': "BOSS",
   'reaction': '📡',
   'categorie': 'AI'
 }, async (_0x4c29c0, _0x4e7f01, _0x5e6ef0) => {
@@ -51,7 +51,7 @@ france({
       'image': {
         'url': _0x145045
       },
-      'caption': "*powered by MASTER-MD*"
+      'caption': "*powered by BOSS-MD*"
     }, {
       'quoted': _0x37c9b9
     });
@@ -80,7 +80,7 @@ france({
   'categorie': 'AI'
 }, async (_0x1c753b, _0x55355f, _0x5d8964) => {
   if (!_0x424bf0 || _0x424bf0.length === 0x0) {
-    return _0x24f9f4("Hello am *MASTER-MD.* an Ai developed by Sahan Maduwantha.\n\n What help can I offer you today?.");
+    return _0x24f9f4("Hello am *BOSS-MD.* an Ai developed by Nethmika kaushalya.\n\n What help can I offer you today?.");
   }
   const _0x8e5e01 = _0x424bf0.join(" ");
   const _0xcdca18 = await fetch("https://api.maher-zubair.tech/ai/chatgpt3?q=" + _0x8e5e01);

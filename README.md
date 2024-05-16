@@ -51,7 +51,7 @@
 ### Contact My Main Owner
  <p align="center">
 
-  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94704227534?text=Hey_Nethaccount _🔥" target="_blank">
+  <a aria-label="Owner WhatsApp Channel" href="https://wa.me/+94704227534?text=Hey_Netha_🔥" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp Owner-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 

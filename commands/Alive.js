@@ -65,7 +65,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
-*©.Ｃʀᴇᴀᴛᴇᴅ Ｂʏ Ｍᴀꜱᴛᴇʀ Ｍɪɴᴅ*`
+*©.Ｃreat by Nethmika*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
